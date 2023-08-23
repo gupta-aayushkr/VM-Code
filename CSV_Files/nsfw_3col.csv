@@ -1,0 +1,3914 @@
+,Keyword,Month,Value
+0,nsfw ai,2022-07,1.0
+1,nsfw ai,2022-08,1.75
+2,nsfw ai,2022-09,4.0
+3,nsfw ai,2022-10,5.6
+4,nsfw ai,2022-11,7.0
+5,nsfw ai,2022-12,19.5
+6,nsfw ai,2023-01,20.4
+7,nsfw ai,2023-02,31.0
+8,nsfw ai,2023-03,32.25
+9,nsfw ai,2023-04,62.0
+10,nsfw ai,2023-05,70.0
+11,nsfw ai,2023-06,81.0
+12,nsfw ai,2023-07,93.33
+13,beta character ai nsfw,2022-07,0.0
+14,beta character ai nsfw,2022-08,3.25
+15,beta character ai nsfw,2022-09,4.75
+16,beta character ai nsfw,2022-10,2.6
+17,beta character ai nsfw,2022-11,0.0
+18,beta character ai nsfw,2022-12,1.75
+19,beta character ai nsfw,2023-01,7.0
+20,beta character ai nsfw,2023-02,17.5
+21,beta character ai nsfw,2023-03,7.5
+22,beta character ai nsfw,2023-04,50.0
+23,beta character ai nsfw,2023-05,31.5
+24,beta character ai nsfw,2023-06,16.75
+25,beta character ai nsfw,2023-07,10.67
+26,soulgen ai,2022-07,0.0
+27,soulgen ai,2022-08,4.0
+28,soulgen ai,2022-09,0.0
+29,soulgen ai,2022-10,0.0
+30,soulgen ai,2022-11,0.0
+31,soulgen ai,2022-12,0.0
+32,soulgen ai,2023-01,0.0
+33,soulgen ai,2023-02,2.5
+34,soulgen ai,2023-03,27.0
+35,soulgen ai,2023-04,48.0
+36,soulgen ai,2023-05,76.75
+37,soulgen ai,2023-06,82.25
+38,soulgen ai,2023-07,90.33
+39,chai,2022-07,73.0
+40,chai,2022-08,82.5
+41,chai,2022-09,88.75
+42,chai,2022-10,91.0
+43,chai,2022-11,85.75
+44,chai,2022-12,82.75
+45,chai,2023-01,83.0
+46,chai,2023-02,79.75
+47,chai,2023-03,77.0
+48,chai,2023-04,78.8
+49,chai,2023-05,77.75
+50,chai,2023-06,86.5
+51,chai,2023-07,89.33
+52,chai ai,2022-07,3.0
+53,chai ai,2022-08,2.5
+54,chai ai,2022-09,2.5
+55,chai ai,2022-10,2.0
+56,chai ai,2022-11,2.25
+57,chai ai,2022-12,4.0
+58,chai ai,2023-01,7.6
+59,chai ai,2023-02,12.75
+60,chai ai,2023-03,14.75
+61,chai ai,2023-04,40.8
+62,chai ai,2023-05,45.75
+63,chai ai,2023-06,54.75
+64,chai ai,2023-07,73.33
+65,chai character ai,2022-07,0.0
+66,chai character ai,2022-08,1.25
+67,chai character ai,2022-09,0.0
+68,chai character ai,2022-10,0.0
+69,chai character ai,2022-11,0.0
+70,chai character ai,2022-12,2.75
+71,chai character ai,2023-01,2.2
+72,chai character ai,2023-02,3.75
+73,chai character ai,2023-03,7.75
+74,chai character ai,2023-04,40.8
+75,chai character ai,2023-05,43.25
+76,chai character ai,2023-06,43.5
+77,chai character ai,2023-07,65.67
+78,character ai reddit,2022-07,0.0
+79,character ai reddit,2022-08,1.5
+80,character ai reddit,2022-09,1.0
+81,character ai reddit,2022-10,1.4
+82,character ai reddit,2022-11,3.25
+83,character ai reddit,2022-12,12.0
+84,character ai reddit,2023-01,24.0
+85,character ai reddit,2023-02,22.5
+86,character ai reddit,2023-03,30.0
+87,character ai reddit,2023-04,49.2
+88,character ai reddit,2023-05,66.5
+89,character ai reddit,2023-06,48.25
+90,character ai reddit,2023-07,72.0
+91,nsfw character ai petition,2022-07,0.0
+92,nsfw character ai petition,2022-08,4.5
+93,nsfw character ai petition,2022-09,3.25
+94,nsfw character ai petition,2022-10,0.0
+95,nsfw character ai petition,2022-11,0.0
+96,nsfw character ai petition,2022-12,4.0
+97,nsfw character ai petition,2023-01,12.0
+98,nsfw character ai petition,2023-02,0.0
+99,nsfw character ai petition,2023-03,9.75
+100,nsfw character ai petition,2023-04,69.2
+101,nsfw character ai petition,2023-05,56.0
+102,nsfw character ai petition,2023-06,38.75
+103,nsfw character ai petition,2023-07,34.33
+104,character ai nsfw bot,2022-07,0.0
+105,character ai nsfw bot,2022-08,0.0
+106,character ai nsfw bot,2022-09,0.0
+107,character ai nsfw bot,2022-10,3.2
+108,character ai nsfw bot,2022-11,0.0
+109,character ai nsfw bot,2022-12,3.0
+110,character ai nsfw bot,2023-01,13.6
+111,character ai nsfw bot,2023-02,3.25
+112,character ai nsfw bot,2023-03,14.5
+113,character ai nsfw bot,2023-04,38.0
+114,character ai nsfw bot,2023-05,27.25
+115,character ai nsfw bot,2023-06,27.75
+116,character ai nsfw bot,2023-07,46.67
+117,does character ai allow nsfw,2022-07,0.0
+118,does character ai allow nsfw,2022-08,13.75
+119,does character ai allow nsfw,2022-09,4.5
+120,does character ai allow nsfw,2022-10,3.4
+121,does character ai allow nsfw,2022-11,10.75
+122,does character ai allow nsfw,2022-12,13.25
+123,does character ai allow nsfw,2023-01,14.4
+124,does character ai allow nsfw,2023-02,8.25
+125,does character ai allow nsfw,2023-03,8.0
+126,does character ai allow nsfw,2023-04,41.2
+127,does character ai allow nsfw,2023-05,29.75
+128,does character ai allow nsfw,2023-06,60.25
+129,does character ai allow nsfw,2023-07,49.33
+130,character ai app,2022-07,0.0
+131,character ai app,2022-08,0.5
+132,character ai app,2022-09,0.0
+133,character ai app,2022-10,0.0
+134,character ai app,2022-11,0.25
+135,character ai app,2022-12,1.5
+136,character ai app,2023-01,1.4
+137,character ai app,2023-02,3.0
+138,character ai app,2023-03,1.75
+139,character ai app,2023-04,13.8
+140,character ai app,2023-05,59.75
+141,character ai app,2023-06,40.25
+142,character ai app,2023-07,25.33
+143,character ai nsfw alternative,2022-07,27.0
+144,character ai nsfw alternative,2022-08,0.0
+145,character ai nsfw alternative,2022-09,7.75
+146,character ai nsfw alternative,2022-10,0.0
+147,character ai nsfw alternative,2022-11,5.25
+148,character ai nsfw alternative,2022-12,6.75
+149,character ai nsfw alternative,2023-01,0.0
+150,character ai nsfw alternative,2023-02,17.25
+151,character ai nsfw alternative,2023-03,15.25
+152,character ai nsfw alternative,2023-04,23.4
+153,character ai nsfw alternative,2023-05,56.5
+154,character ai nsfw alternative,2023-06,30.25
+155,character ai nsfw alternative,2023-07,49.0
+156,character ai nsfw filter,2022-07,10.0
+157,character ai nsfw filter,2022-08,7.0
+158,character ai nsfw filter,2022-09,0.0
+159,character ai nsfw filter,2022-10,1.8
+160,character ai nsfw filter,2022-11,0.0
+161,character ai nsfw filter,2022-12,0.0
+162,character ai nsfw filter,2023-01,5.2
+163,character ai nsfw filter,2023-02,11.0
+164,character ai nsfw filter,2023-03,6.75
+165,character ai nsfw filter,2023-04,49.6
+166,character ai nsfw filter,2023-05,46.0
+167,character ai nsfw filter,2023-06,53.25
+168,character ai nsfw filter,2023-07,77.67
+169,how to bypass character ai nsfw filter,2022-07,0.0
+170,how to bypass character ai nsfw filter,2022-08,9.25
+171,how to bypass character ai nsfw filter,2022-09,0.0
+172,how to bypass character ai nsfw filter,2022-10,0.0
+173,how to bypass character ai nsfw filter,2022-11,5.75
+174,how to bypass character ai nsfw filter,2022-12,5.5
+175,how to bypass character ai nsfw filter,2023-01,11.2
+176,how to bypass character ai nsfw filter,2023-02,30.25
+177,how to bypass character ai nsfw filter,2023-03,45.5
+178,how to bypass character ai nsfw filter,2023-04,57.0
+179,how to bypass character ai nsfw filter,2023-05,60.25
+180,how to bypass character ai nsfw filter,2023-06,42.75
+181,how to bypass character ai nsfw filter,2023-07,56.0
+182,how to get character ai nsfw,2022-07,0.0
+183,how to get character ai nsfw,2022-08,4.25
+184,how to get character ai nsfw,2022-09,0.0
+185,how to get character ai nsfw,2022-10,9.2
+186,how to get character ai nsfw,2022-11,9.0
+187,how to get character ai nsfw,2022-12,0.0
+188,how to get character ai nsfw,2023-01,6.2
+189,how to get character ai nsfw,2023-02,9.75
+190,how to get character ai nsfw,2023-03,15.25
+191,how to get character ai nsfw,2023-04,31.8
+192,how to get character ai nsfw,2023-05,18.75
+193,how to get character ai nsfw,2023-06,65.0
+194,how to get character ai nsfw,2023-07,49.67
+195,how to bypass character ai filter,2022-07,13.0
+196,how to bypass character ai filter,2022-08,3.0
+197,how to bypass character ai filter,2022-09,2.5
+198,how to bypass character ai filter,2022-10,6.2
+199,how to bypass character ai filter,2022-11,5.5
+200,how to bypass character ai filter,2022-12,7.5
+201,how to bypass character ai filter,2023-01,1.4
+202,how to bypass character ai filter,2023-02,10.75
+203,how to bypass character ai filter,2023-03,4.75
+204,how to bypass character ai filter,2023-04,65.6
+205,how to bypass character ai filter,2023-05,55.5
+206,how to bypass character ai filter,2023-06,46.5
+207,how to bypass character ai filter,2023-07,67.33
+208,character ai alternative,2022-07,0.0
+209,character ai alternative,2022-08,1.5
+210,character ai alternative,2022-09,3.75
+211,character ai alternative,2022-10,0.0
+212,character ai alternative,2022-11,0.0
+213,character ai alternative,2022-12,3.75
+214,character ai alternative,2023-01,7.6
+215,character ai alternative,2023-02,12.5
+216,character ai alternative,2023-03,12.5
+217,character ai alternative,2023-04,25.0
+218,character ai alternative,2023-05,29.75
+219,character ai alternative,2023-06,31.0
+220,character ai alternative,2023-07,58.67
+221,tavern ai,2022-07,0.0
+222,tavern ai,2022-08,2.25
+223,tavern ai,2022-09,1.0
+224,tavern ai,2022-10,3.8
+225,tavern ai,2022-11,1.25
+226,tavern ai,2022-12,1.75
+227,tavern ai,2023-01,3.4
+228,tavern ai,2023-02,6.5
+229,tavern ai,2023-03,14.5
+230,tavern ai,2023-04,31.0
+231,tavern ai,2023-05,53.5
+232,tavern ai,2023-06,68.0
+233,tavern ai,2023-07,82.0
+234,character.ai,2022-07,0.0
+235,character.ai,2022-08,0.0
+236,character.ai,2022-09,0.25
+237,character.ai,2022-10,2.0
+238,character.ai,2022-11,3.25
+239,character.ai,2022-12,10.0
+240,character.ai,2023-01,17.8
+241,character.ai,2023-02,18.75
+242,character.ai,2023-03,23.25
+243,character.ai,2023-04,68.8
+244,character.ai,2023-05,88.0
+245,character.ai,2023-06,59.0
+246,character.ai,2023-07,52.33
+247,chai app,2022-07,27.0
+248,chai app,2022-08,27.75
+249,chai app,2022-09,36.25
+250,chai app,2022-10,19.6
+251,chai app,2022-11,19.5
+252,chai app,2022-12,20.75
+253,chai app,2023-01,19.4
+254,chai app,2023-02,18.0
+255,chai app,2023-03,33.75
+256,chai app,2023-04,72.0
+257,chai app,2023-05,55.5
+258,chai app,2023-06,69.0
+259,chai app,2023-07,76.0
+260,pygmalion,2022-07,46.0
+261,pygmalion,2022-08,35.5
+262,pygmalion,2022-09,46.75
+263,pygmalion,2022-10,55.0
+264,pygmalion,2022-11,57.25
+265,pygmalion,2022-12,54.75
+266,pygmalion,2023-01,71.2
+267,pygmalion,2023-02,89.0
+268,pygmalion,2023-03,78.25
+269,pygmalion,2023-04,85.2
+270,pygmalion,2023-05,68.25
+271,pygmalion,2023-06,50.0
+272,pygmalion,2023-07,48.67
+273,how to make character ai nsfw,2022-07,21.0
+274,how to make character ai nsfw,2022-08,0.0
+275,how to make character ai nsfw,2022-09,5.25
+276,how to make character ai nsfw,2022-10,7.0
+277,how to make character ai nsfw,2022-11,0.0
+278,how to make character ai nsfw,2022-12,25.0
+279,how to make character ai nsfw,2023-01,0.0
+280,how to make character ai nsfw,2023-02,8.25
+281,how to make character ai nsfw,2023-03,9.75
+282,how to make character ai nsfw,2023-04,41.4
+283,how to make character ai nsfw,2023-05,17.75
+284,how to make character ai nsfw,2023-06,25.0
+285,how to make character ai nsfw,2023-07,32.33
+286,character ai no filter,2022-07,0.0
+287,character ai no filter,2022-08,1.75
+288,character ai no filter,2022-09,1.5
+289,character ai no filter,2022-10,0.0
+290,character ai no filter,2022-11,0.0
+291,character ai no filter,2022-12,0.0
+292,character ai no filter,2023-01,2.6
+293,character ai no filter,2023-02,1.5
+294,character ai no filter,2023-03,0.0
+295,character ai no filter,2023-04,34.6
+296,character ai no filter,2023-05,29.75
+297,character ai no filter,2023-06,68.25
+298,character ai no filter,2023-07,90.67
+299,character ai nsfw bypass,2022-07,0.0
+300,character ai nsfw bypass,2022-08,0.0
+301,character ai nsfw bypass,2022-09,9.0
+302,character ai nsfw bypass,2022-10,3.4
+303,character ai nsfw bypass,2022-11,0.0
+304,character ai nsfw bypass,2022-12,8.5
+305,character ai nsfw bypass,2023-01,17.6
+306,character ai nsfw bypass,2023-02,23.75
+307,character ai nsfw bypass,2023-03,7.0
+308,character ai nsfw bypass,2023-04,65.2
+309,character ai nsfw bypass,2023-05,38.0
+310,character ai nsfw bypass,2023-06,41.25
+311,character ai nsfw bypass,2023-07,61.33
+312,chatfai,2022-07,0.0
+313,chatfai,2022-08,0.0
+314,chatfai,2022-09,2.5
+315,chatfai,2022-10,0.0
+316,chatfai,2022-11,3.5
+317,chatfai,2022-12,2.75
+318,chatfai,2023-01,2.0
+319,chatfai,2023-02,8.25
+320,chatfai,2023-03,39.5
+321,chatfai,2023-04,76.4
+322,chatfai,2023-05,56.5
+323,chatfai,2023-06,60.5
+324,chatfai,2023-07,60.33
+325,janitor ai,2022-07,0.0
+326,janitor ai,2022-08,0.0
+327,janitor ai,2022-09,0.0
+328,janitor ai,2022-10,0.0
+329,janitor ai,2022-11,0.0
+330,janitor ai,2022-12,0.0
+331,janitor ai,2023-01,0.0
+332,janitor ai,2023-02,0.0
+333,janitor ai,2023-03,0.0
+334,janitor ai,2023-04,0.0
+335,janitor ai,2023-05,0.0
+336,janitor ai,2023-06,45.75
+337,janitor ai,2023-07,19.33
+338,chatgpt,2022-07,0.0
+339,chatgpt,2022-08,0.0
+340,chatgpt,2022-09,0.0
+341,chatgpt,2022-10,0.0
+342,chatgpt,2022-11,0.75
+343,chatgpt,2022-12,33.75
+344,chatgpt,2023-01,53.4
+345,chatgpt,2023-02,80.5
+346,chatgpt,2023-03,86.25
+347,chatgpt,2023-04,95.2
+348,chatgpt,2023-05,77.25
+349,chatgpt,2023-06,59.5
+350,chatgpt,2023-07,54.33
+351,free ai art generator,2022-07,12.0
+352,free ai art generator,2022-08,18.75
+353,free ai art generator,2022-09,25.25
+354,free ai art generator,2022-10,32.8
+355,free ai art generator,2022-11,36.25
+356,free ai art generator,2022-12,70.75
+357,free ai art generator,2023-01,67.2
+358,free ai art generator,2023-02,60.5
+359,free ai art generator,2023-03,62.75
+360,free ai art generator,2023-04,88.2
+361,free ai art generator,2023-05,87.0
+362,free ai art generator,2023-06,85.75
+363,free ai art generator,2023-07,79.0
+364,ai art free,2022-07,14.0
+365,ai art free,2022-08,21.5
+366,ai art free,2022-09,29.75
+367,ai art free,2022-10,35.4
+368,ai art free,2022-11,39.5
+369,ai art free,2022-12,77.0
+370,ai art free,2023-01,70.0
+371,ai art free,2023-02,64.75
+372,ai art free,2023-03,69.25
+373,ai art free,2023-04,92.8
+374,ai art free,2023-05,94.5
+375,ai art free,2023-06,92.0
+376,ai art free,2023-07,89.33
+377,free ai,2022-07,9.0
+378,free ai,2022-08,10.5
+379,free ai,2022-09,11.75
+380,free ai,2022-10,14.0
+381,free ai,2022-11,23.75
+382,free ai,2022-12,35.5
+383,free ai,2023-01,36.6
+384,free ai,2023-02,43.25
+385,free ai,2023-03,50.5
+386,free ai,2023-04,70.6
+387,free ai,2023-05,77.75
+388,free ai,2023-06,79.25
+389,free ai,2023-07,90.33
+390,free ai generator,2022-07,8.0
+391,free ai generator,2022-08,11.25
+392,free ai generator,2022-09,13.0
+393,free ai generator,2022-10,17.0
+394,free ai generator,2022-11,21.25
+395,free ai generator,2022-12,41.25
+396,free ai generator,2023-01,38.2
+397,free ai generator,2023-02,42.0
+398,free ai generator,2023-03,49.5
+399,free ai generator,2023-04,68.6
+400,free ai generator,2023-05,76.5
+401,free ai generator,2023-06,76.5
+402,free ai generator,2023-07,87.0
+403,ai image generator,2022-07,36.0
+404,ai image generator,2022-08,46.0
+405,ai image generator,2022-09,27.5
+406,ai image generator,2022-10,26.4
+407,ai image generator,2022-11,27.25
+408,ai image generator,2022-12,54.25
+409,ai image generator,2023-01,35.6
+410,ai image generator,2023-02,38.5
+411,ai image generator,2023-03,47.5
+412,ai image generator,2023-04,68.0
+413,ai image generator,2023-05,69.0
+414,ai image generator,2023-06,64.5
+415,ai image generator,2023-07,69.33
+416,best ai art generator,2022-07,17.0
+417,best ai art generator,2022-08,24.0
+418,best ai art generator,2022-09,38.25
+419,best ai art generator,2022-10,34.0
+420,best ai art generator,2022-11,34.25
+421,best ai art generator,2022-12,75.75
+422,best ai art generator,2023-01,63.8
+423,best ai art generator,2023-02,55.5
+424,best ai art generator,2023-03,57.25
+425,best ai art generator,2023-04,69.0
+426,best ai art generator,2023-05,66.75
+427,best ai art generator,2023-06,59.0
+428,best ai art generator,2023-07,55.33
+429,best ai generator,2022-07,15.0
+430,best ai generator,2022-08,20.75
+431,best ai generator,2022-09,26.75
+432,best ai generator,2022-10,27.4
+433,best ai generator,2022-11,27.75
+434,best ai generator,2022-12,63.25
+435,best ai generator,2023-01,58.0
+436,best ai generator,2023-02,59.0
+437,best ai generator,2023-03,71.0
+438,best ai generator,2023-04,86.6
+439,best ai generator,2023-05,88.75
+440,best ai generator,2023-06,83.0
+441,best ai generator,2023-07,89.0
+442,ai chat,2022-07,1.0
+443,ai chat,2022-08,1.5
+444,ai chat,2022-09,1.0
+445,ai chat,2022-10,1.0
+446,ai chat,2022-11,2.25
+447,ai chat,2022-12,41.75
+448,ai chat,2023-01,53.8
+449,ai chat,2023-02,56.75
+450,ai chat,2023-03,59.0
+451,ai chat,2023-04,82.4
+452,ai chat,2023-05,72.25
+453,ai chat,2023-06,53.25
+454,ai chat,2023-07,56.33
+455,image generator,2022-07,42.0
+456,image generator,2022-08,48.5
+457,image generator,2022-09,34.0
+458,image generator,2022-10,34.2
+459,image generator,2022-11,34.25
+460,image generator,2022-12,57.75
+461,image generator,2023-01,42.6
+462,image generator,2023-02,45.75
+463,image generator,2023-03,55.75
+464,image generator,2023-04,72.2
+465,image generator,2023-05,71.75
+466,image generator,2023-06,67.25
+467,image generator,2023-07,70.33
+468,ai image,2022-07,37.0
+469,ai image,2022-08,43.75
+470,ai image,2022-09,31.5
+471,ai image,2022-10,31.6
+472,ai image,2022-11,32.25
+473,ai image,2022-12,57.5
+474,ai image,2023-01,45.2
+475,ai image,2023-02,50.25
+476,ai image,2023-03,64.0
+477,ai image,2023-04,87.2
+478,ai image,2023-05,91.25
+479,ai image,2023-06,90.0
+480,ai image,2023-07,90.0
+481,best ai art,2022-07,18.0
+482,best ai art,2022-08,26.75
+483,best ai art,2022-09,38.75
+484,best ai art,2022-10,34.2
+485,best ai art,2022-11,36.25
+486,best ai art,2022-12,81.5
+487,best ai art,2023-01,65.4
+488,best ai art,2023-02,60.25
+489,best ai art,2023-03,62.25
+490,best ai art,2023-04,74.0
+491,best ai art,2023-05,69.25
+492,best ai art,2023-06,62.5
+493,best ai art,2023-07,61.0
+494,ai art generator midjourney,2022-07,77.0
+495,ai art generator midjourney,2022-08,56.75
+496,ai art generator midjourney,2022-09,38.75
+497,ai art generator midjourney,2022-10,22.6
+498,ai art generator midjourney,2022-11,20.25
+499,ai art generator midjourney,2022-12,39.0
+500,ai art generator midjourney,2023-01,51.6
+501,ai art generator midjourney,2023-02,37.5
+502,ai art generator midjourney,2023-03,44.25
+503,ai art generator midjourney,2023-04,50.2
+504,ai art generator midjourney,2023-05,40.75
+505,ai art generator midjourney,2023-06,33.5
+506,ai art generator midjourney,2023-07,39.67
+507,midjourney,2022-07,45.0
+508,midjourney,2022-08,49.25
+509,midjourney,2022-09,30.75
+510,midjourney,2022-10,14.2
+511,midjourney,2022-11,19.25
+512,midjourney,2022-12,35.25
+513,midjourney,2023-01,49.2
+514,midjourney,2023-02,51.25
+515,midjourney,2023-03,76.25
+516,midjourney,2023-04,77.2
+517,midjourney,2023-05,70.0
+518,midjourney,2023-06,60.75
+519,midjourney,2023-07,56.0
+520,midjourney ai,2022-07,80.0
+521,midjourney ai,2022-08,65.0
+522,midjourney ai,2022-09,48.75
+523,midjourney ai,2022-10,19.2
+524,midjourney ai,2022-11,22.5
+525,midjourney ai,2022-12,45.25
+526,midjourney ai,2023-01,56.0
+527,midjourney ai,2023-02,52.75
+528,midjourney ai,2023-03,72.0
+529,midjourney ai,2023-04,76.2
+530,midjourney ai,2023-05,67.5
+531,midjourney ai,2023-06,55.5
+532,midjourney ai,2023-07,52.33
+533,midjourney ai art,2022-07,96.0
+534,midjourney ai art,2022-08,65.75
+535,midjourney ai art,2022-09,24.0
+536,midjourney ai art,2022-10,12.6
+537,midjourney ai art,2022-11,11.25
+538,midjourney ai art,2022-12,23.75
+539,midjourney ai art,2023-01,28.6
+540,midjourney ai art,2023-02,23.75
+541,midjourney ai art,2023-03,23.5
+542,midjourney ai art,2023-04,27.2
+543,midjourney ai art,2023-05,22.0
+544,midjourney ai art,2023-06,20.0
+545,midjourney ai art,2023-07,19.67
+546,ai generator text,2022-07,31.0
+547,ai generator text,2022-08,33.0
+548,ai generator text,2022-09,34.75
+549,ai generator text,2022-10,30.0
+550,ai generator text,2022-11,30.5
+551,ai generator text,2022-12,62.5
+552,ai generator text,2023-01,64.6
+553,ai generator text,2023-02,73.0
+554,ai generator text,2023-03,82.75
+555,ai generator text,2023-04,91.4
+556,ai generator text,2023-05,92.75
+557,ai generator text,2023-06,80.75
+558,ai generator text,2023-07,77.33
+559,ai art generator anime,2022-07,2.0
+560,ai art generator anime,2022-08,0.75
+561,ai art generator anime,2022-09,2.75
+562,ai art generator anime,2022-10,13.0
+563,ai art generator anime,2022-11,18.25
+564,ai art generator anime,2022-12,49.75
+565,ai art generator anime,2023-01,18.6
+566,ai art generator anime,2023-02,21.5
+567,ai art generator anime,2023-03,16.25
+568,ai art generator anime,2023-04,19.0
+569,ai art generator anime,2023-05,20.5
+570,ai art generator anime,2023-06,24.0
+571,ai art generator anime,2023-07,25.67
+572,anime ai generator,2022-07,1.0
+573,anime ai generator,2022-08,0.5
+574,anime ai generator,2022-09,1.5
+575,anime ai generator,2022-10,6.6
+576,anime ai generator,2022-11,13.75
+577,anime ai generator,2022-12,44.25
+578,anime ai generator,2023-01,13.8
+579,anime ai generator,2023-02,14.75
+580,anime ai generator,2023-03,12.25
+581,anime ai generator,2023-04,14.8
+582,anime ai generator,2023-05,17.25
+583,anime ai generator,2023-06,16.75
+584,anime ai generator,2023-07,17.0
+585,character ai chat,2022-07,0.0
+586,character ai chat,2022-08,0.25
+587,character ai chat,2022-09,1.0
+588,character ai chat,2022-10,0.4
+589,character ai chat,2022-11,0.75
+590,character ai chat,2022-12,6.5
+591,character ai chat,2023-01,24.6
+592,character ai chat,2023-02,34.25
+593,character ai chat,2023-03,29.5
+594,character ai chat,2023-04,77.0
+595,character ai chat,2023-05,82.0
+596,character ai chat,2023-06,55.5
+597,character ai chat,2023-07,74.0
+598,anime ai,2022-07,4.0
+599,anime ai,2022-08,4.0
+600,anime ai,2022-09,4.0
+601,anime ai,2022-10,8.2
+602,anime ai,2022-11,15.75
+603,anime ai,2022-12,49.5
+604,anime ai,2023-01,19.2
+605,anime ai,2023-02,17.75
+606,anime ai,2023-03,17.75
+607,anime ai,2023-04,24.0
+608,anime ai,2023-05,26.75
+609,anime ai,2023-06,27.25
+610,anime ai,2023-07,30.33
+611,ai anime art,2022-07,2.0
+612,ai anime art,2022-08,0.5
+613,ai anime art,2022-09,3.25
+614,ai anime art,2022-10,12.6
+615,ai anime art,2022-11,18.0
+616,ai anime art,2022-12,53.0
+617,ai anime art,2023-01,18.4
+618,ai anime art,2023-02,19.5
+619,ai anime art,2023-03,15.25
+620,ai anime art,2023-04,20.2
+621,ai anime art,2023-05,20.75
+622,ai anime art,2023-06,23.0
+623,ai anime art,2023-07,25.0
+624,anime art generator,2022-07,0.0
+625,anime art generator,2022-08,1.75
+626,anime art generator,2022-09,4.75
+627,anime art generator,2022-10,15.0
+628,anime art generator,2022-11,20.75
+629,anime art generator,2022-12,54.75
+630,anime art generator,2023-01,20.4
+631,anime art generator,2023-02,23.75
+632,anime art generator,2023-03,18.0
+633,anime art generator,2023-04,21.6
+634,anime art generator,2023-05,22.75
+635,anime art generator,2023-06,24.75
+636,anime art generator,2023-07,21.67
+637,dall e generator,2022-07,75.0
+638,dall e generator,2022-08,75.75
+639,dall e generator,2022-09,55.0
+640,dall e generator,2022-10,50.6
+641,dall e generator,2022-11,36.25
+642,dall e generator,2022-12,52.75
+643,dall e generator,2023-01,46.0
+644,dall e generator,2023-02,36.5
+645,dall e generator,2023-03,36.25
+646,dall e generator,2023-04,45.2
+647,dall e generator,2023-05,31.0
+648,dall e generator,2023-06,22.5
+649,dall e generator,2023-07,19.0
+650,dall e,2022-07,89.0
+651,dall e,2022-08,76.75
+652,dall e,2022-09,50.5
+653,dall e,2022-10,44.0
+654,dall e,2022-11,27.75
+655,dall e,2022-12,39.5
+656,dall e,2023-01,36.8
+657,dall e,2023-02,31.0
+658,dall e,2023-03,28.75
+659,dall e,2023-04,27.4
+660,dall e,2023-05,21.0
+661,dall e,2023-06,15.75
+662,dall e,2023-07,13.33
+663,dall e ai,2022-07,74.0
+664,dall e ai,2022-08,81.25
+665,dall e ai,2022-09,66.75
+666,dall e ai,2022-10,61.2
+667,dall e ai,2022-11,43.5
+668,dall e ai,2022-12,69.0
+669,dall e ai,2023-01,70.0
+670,dall e ai,2023-02,57.75
+671,dall e ai,2023-03,54.0
+672,dall e ai,2023-04,61.4
+673,dall e ai,2023-05,44.75
+674,dall e ai,2023-06,36.25
+675,dall e ai,2023-07,28.0
+676,ai art generator dall e,2022-07,55.0
+677,ai art generator dall e,2022-08,65.25
+678,ai art generator dall e,2022-09,75.25
+679,ai art generator dall e,2022-10,63.2
+680,ai art generator dall e,2022-11,53.5
+681,ai art generator dall e,2022-12,79.0
+682,ai art generator dall e,2023-01,68.4
+683,ai art generator dall e,2023-02,57.0
+684,ai art generator dall e,2023-03,48.25
+685,ai art generator dall e,2023-04,56.6
+686,ai art generator dall e,2023-05,38.5
+687,ai art generator dall e,2023-06,21.5
+688,ai art generator dall e,2023-07,25.67
+689,ai art generator from text,2022-07,51.0
+690,ai art generator from text,2022-08,51.75
+691,ai art generator from text,2022-09,72.5
+692,ai art generator from text,2022-10,43.8
+693,ai art generator from text,2022-11,44.5
+694,ai art generator from text,2022-12,69.25
+695,ai art generator from text,2023-01,77.4
+696,ai art generator from text,2023-02,63.5
+697,ai art generator from text,2023-03,71.0
+698,ai art generator from text,2023-04,68.4
+699,ai art generator from text,2023-05,69.0
+700,ai art generator from text,2023-06,63.0
+701,ai art generator from text,2023-07,59.67
+702,stable diffusion ai art generator,2022-07,0.0
+703,stable diffusion ai art generator,2022-08,16.25
+704,stable diffusion ai art generator,2022-09,61.75
+705,stable diffusion ai art generator,2022-10,65.4
+706,stable diffusion ai art generator,2022-11,46.0
+707,stable diffusion ai art generator,2022-12,72.25
+708,stable diffusion ai art generator,2023-01,65.6
+709,stable diffusion ai art generator,2023-02,68.0
+710,stable diffusion ai art generator,2023-03,73.5
+711,stable diffusion ai art generator,2023-04,64.2
+712,stable diffusion ai art generator,2023-05,67.75
+713,stable diffusion ai art generator,2023-06,44.25
+714,stable diffusion ai art generator,2023-07,35.0
+715,lensa,2022-07,0.0
+716,lensa,2022-08,0.0
+717,lensa,2022-09,0.0
+718,lensa,2022-10,0.0
+719,lensa,2022-11,6.0
+720,lensa,2022-12,32.25
+721,lensa,2023-01,2.4
+722,lensa,2023-02,1.25
+723,lensa,2023-03,1.0
+724,lensa,2023-04,1.0
+725,lensa,2023-05,1.0
+726,lensa,2023-06,1.0
+727,lensa,2023-07,1.0
+728,character ai chat,2022-07,0.0
+729,character ai chat,2022-08,0.25
+730,character ai chat,2022-09,1.0
+731,character ai chat,2022-10,0.4
+732,character ai chat,2022-11,0.75
+733,character ai chat,2022-12,6.5
+734,character ai chat,2023-01,24.6
+735,character ai chat,2023-02,34.25
+736,character ai chat,2023-03,29.5
+737,character ai chat,2023-04,77.0
+738,character ai chat,2023-05,82.0
+739,character ai chat,2023-06,55.5
+740,character ai chat,2023-07,74.0
+741,lensa ai,2022-07,0.0
+742,lensa ai,2022-08,0.0
+743,lensa ai,2022-09,0.0
+744,lensa ai,2022-10,0.0
+745,lensa ai,2022-11,5.75
+746,lensa ai,2022-12,33.0
+747,lensa ai,2023-01,2.6
+748,lensa ai,2023-02,1.0
+749,lensa ai,2023-03,1.0
+750,lensa ai,2023-04,1.0
+751,lensa ai,2023-05,1.0
+752,lensa ai,2023-06,0.5
+753,lensa ai,2023-07,0.67
+754,lensa ai art generator,2022-07,0.0
+755,lensa ai art generator,2022-08,0.25
+756,lensa ai art generator,2022-09,0.25
+757,lensa ai art generator,2022-10,0.6
+758,lensa ai art generator,2022-11,3.25
+759,lensa ai art generator,2022-12,29.75
+760,lensa ai art generator,2023-01,2.0
+761,lensa ai art generator,2023-02,1.25
+762,lensa ai art generator,2023-03,0.5
+763,lensa ai art generator,2023-04,0.6
+764,lensa ai art generator,2023-05,0.5
+765,lensa ai art generator,2023-06,0.5
+766,lensa ai art generator,2023-07,0.33
+767,chat gpt,2022-07,0.0
+768,chat gpt,2022-08,0.0
+769,chat gpt,2022-09,0.0
+770,chat gpt,2022-10,0.0
+771,chat gpt,2022-11,0.5
+772,chat gpt,2022-12,28.0
+773,chat gpt,2023-01,45.8
+774,chat gpt,2023-02,61.5
+775,chat gpt,2023-03,82.75
+776,chat gpt,2023-04,92.6
+777,chat gpt,2023-05,75.25
+778,chat gpt,2023-06,51.25
+779,chat gpt,2023-07,41.67
+780,jasper art,2022-07,14.0
+781,jasper art,2022-08,15.5
+782,jasper art,2022-09,25.5
+783,jasper art,2022-10,36.2
+784,jasper art,2022-11,50.5
+785,jasper art,2022-12,56.5
+786,jasper art,2023-01,74.2
+787,jasper art,2023-02,44.25
+788,jasper art,2023-03,45.25
+789,jasper art,2023-04,35.2
+790,jasper art,2023-05,35.25
+791,jasper art,2023-06,25.0
+792,jasper art,2023-07,20.33
+793,novel ai,2022-07,11.0
+794,novel ai,2022-08,10.25
+795,novel ai,2022-09,24.75
+796,novel ai,2022-10,86.8
+797,novel ai,2022-11,61.5
+798,novel ai,2022-12,62.0
+799,novel ai,2023-01,49.8
+800,novel ai,2023-02,48.0
+801,novel ai,2023-03,42.0
+802,novel ai,2023-04,44.2
+803,novel ai,2023-05,46.75
+804,novel ai,2023-06,36.75
+805,novel ai,2023-07,35.33
+806,novel ai art generator,2022-07,0.0
+807,novel ai art generator,2022-08,4.25
+808,novel ai art generator,2022-09,9.0
+809,novel ai art generator,2022-10,69.4
+810,novel ai art generator,2022-11,52.5
+811,novel ai art generator,2022-12,58.5
+812,novel ai art generator,2023-01,49.0
+813,novel ai art generator,2023-02,19.25
+814,novel ai art generator,2023-03,22.0
+815,novel ai art generator,2023-04,17.4
+816,novel ai art generator,2023-05,20.25
+817,novel ai art generator,2023-06,13.0
+818,novel ai art generator,2023-07,16.33
+819,novelai,2022-07,6.0
+820,novelai,2022-08,7.0
+821,novelai,2022-09,11.5
+822,novelai,2022-10,68.0
+823,novelai,2022-11,44.0
+824,novelai,2022-12,36.5
+825,novelai,2023-01,27.4
+826,novelai,2023-02,29.5
+827,novelai,2023-03,23.75
+828,novelai,2023-04,22.0
+829,novelai,2023-05,20.5
+830,novelai,2023-06,20.25
+831,novelai,2023-07,18.33
+832,what is the best ai art generator,2022-07,0.0
+833,what is the best ai art generator,2022-08,3.5
+834,what is the best ai art generator,2022-09,20.75
+835,what is the best ai art generator,2022-10,19.0
+836,what is the best ai art generator,2022-11,3.5
+837,what is the best ai art generator,2022-12,17.75
+838,what is the best ai art generator,2023-01,41.4
+839,what is the best ai art generator,2023-02,29.5
+840,what is the best ai art generator,2023-03,29.75
+841,what is the best ai art generator,2023-04,28.0
+842,what is the best ai art generator,2023-05,20.25
+843,what is the best ai art generator,2023-06,12.0
+844,what is the best ai art generator,2023-07,26.67
+845,bing ai image generator,2022-07,0.0
+846,bing ai image generator,2022-08,2.0
+847,bing ai image generator,2022-09,1.25
+848,bing ai image generator,2022-10,0.6
+849,bing ai image generator,2022-11,0.0
+850,bing ai image generator,2022-12,3.25
+851,bing ai image generator,2023-01,1.0
+852,bing ai image generator,2023-02,4.75
+853,bing ai image generator,2023-03,13.75
+854,bing ai image generator,2023-04,76.2
+855,bing ai image generator,2023-05,72.75
+856,bing ai image generator,2023-06,77.0
+857,bing ai image generator,2023-07,78.33
+858,uncensored ai art generator,2022-07,0.0
+859,uncensored ai art generator,2022-08,0.0
+860,uncensored ai art generator,2022-09,3.75
+861,uncensored ai art generator,2022-10,22.8
+862,uncensored ai art generator,2022-11,5.0
+863,uncensored ai art generator,2022-12,30.0
+864,uncensored ai art generator,2023-01,30.6
+865,uncensored ai art generator,2023-02,16.5
+866,uncensored ai art generator,2023-03,30.25
+867,uncensored ai art generator,2023-04,6.0
+868,uncensored ai art generator,2023-05,37.25
+869,uncensored ai art generator,2023-06,23.5
+870,uncensored ai art generator,2023-07,19.67
+871,character ai nsfw filter bypass,2022-07,0.0
+872,character ai nsfw filter bypass,2022-08,0.0
+873,character ai nsfw filter bypass,2022-09,0.0
+874,character ai nsfw filter bypass,2022-10,0.0
+875,character ai nsfw filter bypass,2022-11,9.25
+876,character ai nsfw filter bypass,2022-12,4.5
+877,character ai nsfw filter bypass,2023-01,24.0
+878,character ai nsfw filter bypass,2023-02,11.75
+879,character ai nsfw filter bypass,2023-03,2.25
+880,character ai nsfw filter bypass,2023-04,57.0
+881,character ai nsfw filter bypass,2023-05,62.5
+882,character ai nsfw filter bypass,2023-06,35.25
+883,character ai nsfw filter bypass,2023-07,52.33
+884,lensa ai art generator app,2022-07,0.0
+885,lensa ai art generator app,2022-08,0.0
+886,lensa ai art generator app,2022-09,0.5
+887,lensa ai art generator app,2022-10,0.4
+888,lensa ai art generator app,2022-11,1.25
+889,lensa ai art generator app,2022-12,28.75
+890,lensa ai art generator app,2023-01,0.4
+891,lensa ai art generator app,2023-02,0.0
+892,lensa ai art generator app,2023-03,1.0
+893,lensa ai art generator app,2023-04,2.8
+894,lensa ai art generator app,2023-05,1.0
+895,lensa ai art generator app,2023-06,1.75
+896,lensa ai art generator app,2023-07,1.33
+897,best anime ai art generator,2022-07,0.0
+898,best anime ai art generator,2022-08,5.25
+899,best anime ai art generator,2022-09,16.75
+900,best anime ai art generator,2022-10,4.6
+901,best anime ai art generator,2022-11,24.0
+902,best anime ai art generator,2022-12,20.0
+903,best anime ai art generator,2023-01,31.2
+904,best anime ai art generator,2023-02,25.25
+905,best anime ai art generator,2023-03,19.5
+906,best anime ai art generator,2023-04,31.8
+907,best anime ai art generator,2023-05,23.0
+908,best anime ai art generator,2023-06,44.5
+909,best anime ai art generator,2023-07,56.67
+910,lensa app,2022-07,0.0
+911,lensa app,2022-08,0.0
+912,lensa app,2022-09,0.0
+913,lensa app,2022-10,0.0
+914,lensa app,2022-11,6.25
+915,lensa app,2022-12,30.5
+916,lensa app,2023-01,1.0
+917,lensa app,2023-02,0.75
+918,lensa app,2023-03,0.75
+919,lensa app,2023-04,0.4
+920,lensa app,2023-05,0.25
+921,lensa app,2023-06,0.0
+922,lensa app,2023-07,0.33
+923,ai avatar generator,2022-07,0.0
+924,ai avatar generator,2022-08,0.75
+925,ai avatar generator,2022-09,0.5
+926,ai avatar generator,2022-10,1.4
+927,ai avatar generator,2022-11,6.5
+928,ai avatar generator,2022-12,40.0
+929,ai avatar generator,2023-01,10.4
+930,ai avatar generator,2023-02,8.0
+931,ai avatar generator,2023-03,11.75
+932,ai avatar generator,2023-04,8.8
+933,ai avatar generator,2023-05,10.5
+934,ai avatar generator,2023-06,9.0
+935,ai avatar generator,2023-07,9.67
+936,nsfw ai art generator from text,2022-07,0.0
+937,nsfw ai art generator from text,2022-08,0.0
+938,nsfw ai art generator from text,2022-09,0.0
+939,nsfw ai art generator from text,2022-10,7.8
+940,nsfw ai art generator from text,2022-11,6.25
+941,nsfw ai art generator from text,2022-12,45.75
+942,nsfw ai art generator from text,2023-01,23.2
+943,nsfw ai art generator from text,2023-02,22.0
+944,nsfw ai art generator from text,2023-03,40.5
+945,nsfw ai art generator from text,2023-04,19.4
+946,nsfw ai art generator from text,2023-05,13.0
+947,nsfw ai art generator from text,2023-06,11.25
+948,nsfw ai art generator from text,2023-07,5.33
+949,ai art generator selfie,2022-07,0.0
+950,ai art generator selfie,2022-08,0.0
+951,ai art generator selfie,2022-09,1.5
+952,ai art generator selfie,2022-10,0.0
+953,ai art generator selfie,2022-11,6.5
+954,ai art generator selfie,2022-12,31.5
+955,ai art generator selfie,2023-01,4.6
+956,ai art generator selfie,2023-02,3.25
+957,ai art generator selfie,2023-03,1.25
+958,ai art generator selfie,2023-04,3.2
+959,ai art generator selfie,2023-05,6.25
+960,ai art generator selfie,2023-06,0.75
+961,ai art generator selfie,2023-07,2.0
+962,ai art generator trend,2022-07,0.0
+963,ai art generator trend,2022-08,1.25
+964,ai art generator trend,2022-09,1.0
+965,ai art generator trend,2022-10,2.4
+966,ai art generator trend,2022-11,7.0
+967,ai art generator trend,2022-12,29.0
+968,ai art generator trend,2023-01,0.0
+969,ai art generator trend,2023-02,2.5
+970,ai art generator trend,2023-03,1.0
+971,ai art generator trend,2023-04,0.6
+972,ai art generator trend,2023-05,3.25
+973,ai art generator trend,2023-06,1.25
+974,ai art generator trend,2023-07,0.0
+975,ai selfie generator,2022-07,2.0
+976,ai selfie generator,2022-08,0.25
+977,ai selfie generator,2022-09,0.5
+978,ai selfie generator,2022-10,0.6
+979,ai selfie generator,2022-11,5.75
+980,ai selfie generator,2022-12,32.25
+981,ai selfie generator,2023-01,2.6
+982,ai selfie generator,2023-02,1.75
+983,ai selfie generator,2023-03,1.75
+984,ai selfie generator,2023-04,3.4
+985,ai selfie generator,2023-05,1.75
+986,ai selfie generator,2023-06,1.5
+987,ai selfie generator,2023-07,3.0
+988,sexy ai art generator,2022-07,0.0
+989,sexy ai art generator,2022-08,5.75
+990,sexy ai art generator,2022-09,7.75
+991,sexy ai art generator,2022-10,5.0
+992,sexy ai art generator,2022-11,11.0
+993,sexy ai art generator,2022-12,3.25
+994,sexy ai art generator,2023-01,5.8
+995,sexy ai art generator,2023-02,27.25
+996,sexy ai art generator,2023-03,23.75
+997,sexy ai art generator,2023-04,23.0
+998,sexy ai art generator,2023-05,49.0
+999,sexy ai art generator,2023-06,22.75
+1000,sexy ai art generator,2023-07,23.67
+1001,bing image creator,2022-07,0.0
+1002,bing image creator,2022-08,1.0
+1003,bing image creator,2022-09,0.0
+1004,bing image creator,2022-10,1.0
+1005,bing image creator,2022-11,1.0
+1006,bing image creator,2022-12,0.0
+1007,bing image creator,2023-01,1.4
+1008,bing image creator,2023-02,1.0
+1009,bing image creator,2023-03,35.0
+1010,bing image creator,2023-04,81.6
+1011,bing image creator,2023-05,68.75
+1012,bing image creator,2023-06,74.5
+1013,bing image creator,2023-07,77.67
+1014,is character ai nsfw,2022-07,0.0
+1015,is character ai nsfw,2022-08,10.25
+1016,is character ai nsfw,2022-09,4.75
+1017,is character ai nsfw,2022-10,3.8
+1018,is character ai nsfw,2022-11,10.0
+1019,is character ai nsfw,2022-12,3.5
+1020,is character ai nsfw,2023-01,13.0
+1021,is character ai nsfw,2023-02,5.0
+1022,is character ai nsfw,2023-03,0.0
+1023,is character ai nsfw,2023-04,55.8
+1024,is character ai nsfw,2023-05,59.0
+1025,is character ai nsfw,2023-06,75.5
+1026,is character ai nsfw,2023-07,43.0
+1027,soulgen ai art,2022-07,10.0
+1028,soulgen ai art,2022-08,3.25
+1029,soulgen ai art,2022-09,3.5
+1030,soulgen ai art,2022-10,4.8
+1031,soulgen ai art,2022-11,0.0
+1032,soulgen ai art,2022-12,4.0
+1033,soulgen ai art,2023-01,2.4
+1034,soulgen ai art,2023-02,3.5
+1035,soulgen ai art,2023-03,0.0
+1036,soulgen ai art,2023-04,21.4
+1037,soulgen ai art,2023-05,45.0
+1038,soulgen ai art,2023-06,63.0
+1039,soulgen ai art,2023-07,89.33
+1040,ai art,2022-07,16.0
+1041,ai art,2022-08,18.25
+1042,ai art,2022-09,20.25
+1043,ai art,2022-10,19.6
+1044,ai art,2022-11,21.5
+1045,ai art,2022-12,52.5
+1046,ai art,2023-01,28.4
+1047,ai art,2023-02,27.5
+1048,ai art,2023-03,27.25
+1049,ai art,2023-04,29.0
+1050,ai art,2023-05,28.0
+1051,ai art,2023-06,26.0
+1052,ai art,2023-07,24.33
+1053,ai art generator nsfw,2022-07,0.0
+1054,ai art generator nsfw,2022-08,4.0
+1055,ai art generator nsfw,2022-09,3.25
+1056,ai art generator nsfw,2022-10,12.8
+1057,ai art generator nsfw,2022-11,24.75
+1058,ai art generator nsfw,2022-12,40.25
+1059,ai art generator nsfw,2023-01,35.8
+1060,ai art generator nsfw,2023-02,63.75
+1061,ai art generator nsfw,2023-03,60.5
+1062,ai art generator nsfw,2023-04,59.4
+1063,ai art generator nsfw,2023-05,44.75
+1064,ai art generator nsfw,2023-06,64.0
+1065,ai art generator nsfw,2023-07,84.33
+1066,nsfw ai generator,2022-07,0.0
+1067,nsfw ai generator,2022-08,3.75
+1068,nsfw ai generator,2022-09,5.0
+1069,nsfw ai generator,2022-10,9.8
+1070,nsfw ai generator,2022-11,13.0
+1071,nsfw ai generator,2022-12,32.75
+1072,nsfw ai generator,2023-01,26.2
+1073,nsfw ai generator,2023-02,41.0
+1074,nsfw ai generator,2023-03,42.75
+1075,nsfw ai generator,2023-04,48.6
+1076,nsfw ai generator,2023-05,57.5
+1077,nsfw ai generator,2023-06,75.5
+1078,nsfw ai generator,2023-07,85.33
+1079,ai art generator,2022-07,9.0
+1080,ai art generator,2022-08,12.5
+1081,ai art generator,2022-09,16.5
+1082,ai art generator,2022-10,16.4
+1083,ai art generator,2022-11,19.25
+1084,ai art generator,2022-12,49.0
+1085,ai art generator,2023-01,25.8
+1086,ai art generator,2023-02,24.0
+1087,ai art generator,2023-03,24.0
+1088,ai art generator,2023-04,27.0
+1089,ai art generator,2023-05,25.25
+1090,ai art generator,2023-06,21.5
+1091,ai art generator,2023-07,21.33
+1092,ai generator,2022-07,14.0
+1093,ai generator,2022-08,18.5
+1094,ai generator,2022-09,17.75
+1095,ai generator,2022-10,17.8
+1096,ai generator,2022-11,22.0
+1097,ai generator,2022-12,50.75
+1098,ai generator,2023-01,31.2
+1099,ai generator,2023-02,35.25
+1100,ai generator,2023-03,40.5
+1101,ai generator,2023-04,52.0
+1102,ai generator,2023-05,52.5
+1103,ai generator,2023-06,47.5
+1104,ai generator,2023-07,54.67
+1105,stable diffusion,2022-07,2.0
+1106,stable diffusion,2022-08,28.25
+1107,stable diffusion,2022-09,69.5
+1108,stable diffusion,2022-10,68.0
+1109,stable diffusion,2022-11,50.0
+1110,stable diffusion,2022-12,66.5
+1111,stable diffusion,2023-01,63.6
+1112,stable diffusion,2023-02,76.75
+1113,stable diffusion,2023-03,88.5
+1114,stable diffusion,2023-04,92.8
+1115,stable diffusion,2023-05,84.0
+1116,stable diffusion,2023-06,73.5
+1117,stable diffusion,2023-07,72.67
+1118,nsfw ai art generator stable diffusion,2022-07,0.0
+1119,nsfw ai art generator stable diffusion,2022-08,13.25
+1120,nsfw ai art generator stable diffusion,2022-09,9.25
+1121,nsfw ai art generator stable diffusion,2022-10,28.2
+1122,nsfw ai art generator stable diffusion,2022-11,22.75
+1123,nsfw ai art generator stable diffusion,2022-12,11.25
+1124,nsfw ai art generator stable diffusion,2023-01,6.8
+1125,nsfw ai art generator stable diffusion,2023-02,48.5
+1126,nsfw ai art generator stable diffusion,2023-03,30.5
+1127,nsfw ai art generator stable diffusion,2023-04,12.8
+1128,nsfw ai art generator stable diffusion,2023-05,24.25
+1129,nsfw ai art generator stable diffusion,2023-06,31.25
+1130,nsfw ai art generator stable diffusion,2023-07,11.0
+1131,stable diffusion ai generator,2022-07,0.0
+1132,stable diffusion ai generator,2022-08,11.75
+1133,stable diffusion ai generator,2022-09,47.25
+1134,stable diffusion ai generator,2022-10,50.4
+1135,stable diffusion ai generator,2022-11,36.75
+1136,stable diffusion ai generator,2022-12,56.0
+1137,stable diffusion ai generator,2023-01,54.2
+1138,stable diffusion ai generator,2023-02,66.25
+1139,stable diffusion ai generator,2023-03,67.75
+1140,stable diffusion ai generator,2023-04,76.4
+1141,stable diffusion ai generator,2023-05,66.75
+1142,stable diffusion ai generator,2023-06,60.75
+1143,stable diffusion ai generator,2023-07,41.33
+1144,stable diffusion ai,2022-07,0.0
+1145,stable diffusion ai,2022-08,26.25
+1146,stable diffusion ai,2022-09,66.5
+1147,stable diffusion ai,2022-10,69.8
+1148,stable diffusion ai,2022-11,46.75
+1149,stable diffusion ai,2022-12,78.75
+1150,stable diffusion ai,2023-01,73.0
+1151,stable diffusion ai,2023-02,79.5
+1152,stable diffusion ai,2023-03,85.0
+1153,stable diffusion ai,2023-04,92.6
+1154,stable diffusion ai,2023-05,84.0
+1155,stable diffusion ai,2023-06,73.75
+1156,stable diffusion ai,2023-07,66.67
+1157,beta character ai,2022-07,0.0
+1158,beta character ai,2022-08,0.0
+1159,beta character ai,2022-09,0.0
+1160,beta character ai,2022-10,1.2
+1161,beta character ai,2022-11,1.25
+1162,beta character ai,2022-12,5.75
+1163,beta character ai,2023-01,15.2
+1164,beta character ai,2023-02,25.0
+1165,beta character ai,2023-03,29.5
+1166,beta character ai,2023-04,72.6
+1167,beta character ai,2023-05,79.75
+1168,beta character ai,2023-06,47.5
+1169,beta character ai,2023-07,40.33
+1170,nsfw ai image generator,2022-07,0.0
+1171,nsfw ai image generator,2022-08,17.25
+1172,nsfw ai image generator,2022-09,4.25
+1173,nsfw ai image generator,2022-10,11.0
+1174,nsfw ai image generator,2022-11,15.75
+1175,nsfw ai image generator,2022-12,29.0
+1176,nsfw ai image generator,2023-01,22.6
+1177,nsfw ai image generator,2023-02,18.5
+1178,nsfw ai image generator,2023-03,46.5
+1179,nsfw ai image generator,2023-04,45.6
+1180,nsfw ai image generator,2023-05,46.0
+1181,nsfw ai image generator,2023-06,57.0
+1182,nsfw ai image generator,2023-07,76.0
+1183,nsfw ai art generator from text free,2022-07,0.0
+1184,nsfw ai art generator from text free,2022-08,0.0
+1185,nsfw ai art generator from text free,2022-09,0.0
+1186,nsfw ai art generator from text free,2022-10,9.4
+1187,nsfw ai art generator from text free,2022-11,13.5
+1188,nsfw ai art generator from text free,2022-12,0.0
+1189,nsfw ai art generator from text free,2023-01,23.2
+1190,nsfw ai art generator from text free,2023-02,35.75
+1191,nsfw ai art generator from text free,2023-03,31.75
+1192,nsfw ai art generator from text free,2023-04,14.6
+1193,nsfw ai art generator from text free,2023-05,0.0
+1194,nsfw ai art generator from text free,2023-06,50.25
+1195,nsfw ai art generator from text free,2023-07,10.33
+1196,nsfw ai generator 2023,2022-07,14.0
+1197,nsfw ai generator 2023,2022-08,0.0
+1198,nsfw ai generator 2023,2022-09,2.25
+1199,nsfw ai generator 2023,2022-10,2.2
+1200,nsfw ai generator 2023,2022-11,0.0
+1201,nsfw ai generator 2023,2022-12,5.0
+1202,nsfw ai generator 2023,2023-01,4.2
+1203,nsfw ai generator 2023,2023-02,13.5
+1204,nsfw ai generator 2023,2023-03,0.0
+1205,nsfw ai generator 2023,2023-04,44.4
+1206,nsfw ai generator 2023,2023-05,32.5
+1207,nsfw ai generator 2023,2023-06,42.0
+1208,nsfw ai generator 2023,2023-07,74.33
+1209,nsfw ai art generator 2023,2022-07,0.0
+1210,nsfw ai art generator 2023,2022-08,6.0
+1211,nsfw ai art generator 2023,2022-09,8.5
+1212,nsfw ai art generator 2023,2022-10,12.2
+1213,nsfw ai art generator 2023,2022-11,10.25
+1214,nsfw ai art generator 2023,2022-12,0.0
+1215,nsfw ai art generator 2023,2023-01,0.0
+1216,nsfw ai art generator 2023,2023-02,3.75
+1217,nsfw ai art generator 2023,2023-03,2.75
+1218,nsfw ai art generator 2023,2023-04,29.0
+1219,nsfw ai art generator 2023,2023-05,8.75
+1220,nsfw ai art generator 2023,2023-06,7.0
+1221,nsfw ai art generator 2023,2023-07,53.0
+1222,anime ai art generator,2022-07,2.0
+1223,anime ai art generator,2022-08,0.75
+1224,anime ai art generator,2022-09,2.75
+1225,anime ai art generator,2022-10,13.0
+1226,anime ai art generator,2022-11,18.25
+1227,anime ai art generator,2022-12,49.75
+1228,anime ai art generator,2023-01,18.6
+1229,anime ai art generator,2023-02,21.5
+1230,anime ai art generator,2023-03,16.25
+1231,anime ai art generator,2023-04,19.0
+1232,anime ai art generator,2023-05,20.5
+1233,anime ai art generator,2023-06,24.0
+1234,anime ai art generator,2023-07,25.67
+1235,free ai image generator,2022-07,10.0
+1236,free ai image generator,2022-08,15.0
+1237,free ai image generator,2022-09,9.75
+1238,free ai image generator,2022-10,14.8
+1239,free ai image generator,2022-11,17.0
+1240,free ai image generator,2022-12,31.0
+1241,free ai image generator,2023-01,29.4
+1242,free ai image generator,2023-02,34.75
+1243,free ai image generator,2023-03,46.75
+1244,free ai image generator,2023-04,75.4
+1245,free ai image generator,2023-05,91.25
+1246,free ai image generator,2023-06,91.5
+1247,free ai image generator,2023-07,95.67
+1248,ai generated art,2022-07,29.0
+1249,ai generated art,2022-08,46.75
+1250,ai generated art,2022-09,64.5
+1251,ai generated art,2022-10,60.2
+1252,ai generated art,2022-11,47.0
+1253,ai generated art,2022-12,67.25
+1254,ai generated art,2023-01,48.8
+1255,ai generated art,2023-02,42.5
+1256,ai generated art,2023-03,38.5
+1257,ai generated art,2023-04,43.2
+1258,ai generated art,2023-05,37.0
+1259,ai generated art,2023-06,34.5
+1260,ai generated art,2023-07,33.0
+1261,unstable diffusion,2022-07,0.0
+1262,unstable diffusion,2022-08,3.0
+1263,unstable diffusion,2022-09,5.75
+1264,unstable diffusion,2022-10,10.4
+1265,unstable diffusion,2022-11,27.75
+1266,unstable diffusion,2022-12,65.75
+1267,unstable diffusion,2023-01,31.6
+1268,unstable diffusion,2023-02,36.5
+1269,unstable diffusion,2023-03,37.0
+1270,unstable diffusion,2023-04,38.2
+1271,unstable diffusion,2023-05,68.0
+1272,unstable diffusion,2023-06,70.25
+1273,unstable diffusion,2023-07,73.33
+1274,unstable diffusion ai,2022-07,0.0
+1275,unstable diffusion ai,2022-08,3.75
+1276,unstable diffusion ai,2022-09,12.25
+1277,unstable diffusion ai,2022-10,12.4
+1278,unstable diffusion ai,2022-11,25.75
+1279,unstable diffusion ai,2022-12,45.75
+1280,unstable diffusion ai,2023-01,34.4
+1281,unstable diffusion ai,2023-02,35.0
+1282,unstable diffusion ai,2023-03,38.25
+1283,unstable diffusion ai,2023-04,41.4
+1284,unstable diffusion ai,2023-05,48.75
+1285,unstable diffusion ai,2023-06,61.5
+1286,unstable diffusion ai,2023-07,60.33
+1287,soulgen,2022-07,0.0
+1288,soulgen,2022-08,0.75
+1289,soulgen,2022-09,1.5
+1290,soulgen,2022-10,1.0
+1291,soulgen,2022-11,0.0
+1292,soulgen,2022-12,0.0
+1293,soulgen,2023-01,3.4
+1294,soulgen,2023-02,5.5
+1295,soulgen,2023-03,20.5
+1296,soulgen,2023-04,51.2
+1297,soulgen,2023-05,70.25
+1298,soulgen,2023-06,73.25
+1299,soulgen,2023-07,88.33
+1300,picso ai,2022-07,9.0
+1301,picso ai,2022-08,0.0
+1302,picso ai,2022-09,5.25
+1303,picso ai,2022-10,7.0
+1304,picso ai,2022-11,10.0
+1305,picso ai,2022-12,16.75
+1306,picso ai,2023-01,7.0
+1307,picso ai,2023-02,7.25
+1308,picso ai,2023-03,26.25
+1309,picso ai,2023-04,25.4
+1310,picso ai,2023-05,50.0
+1311,picso ai,2023-06,84.25
+1312,picso ai,2023-07,81.0
+1313,best free ai art generator,2022-07,8.0
+1314,best free ai art generator,2022-08,29.25
+1315,best free ai art generator,2022-09,40.75
+1316,best free ai art generator,2022-10,26.6
+1317,best free ai art generator,2022-11,35.75
+1318,best free ai art generator,2022-12,84.25
+1319,best free ai art generator,2023-01,70.2
+1320,best free ai art generator,2023-02,58.25
+1321,best free ai art generator,2023-03,66.75
+1322,best free ai art generator,2023-04,87.8
+1323,best free ai art generator,2023-05,89.0
+1324,best free ai art generator,2023-06,82.25
+1325,best free ai art generator,2023-07,51.67
+1326,how to bypass nsfw filter character ai,2022-07,0.0
+1327,how to bypass nsfw filter character ai,2022-08,9.25
+1328,how to bypass nsfw filter character ai,2022-09,0.0
+1329,how to bypass nsfw filter character ai,2022-10,0.0
+1330,how to bypass nsfw filter character ai,2022-11,5.75
+1331,how to bypass nsfw filter character ai,2022-12,5.5
+1332,how to bypass nsfw filter character ai,2023-01,11.2
+1333,how to bypass nsfw filter character ai,2023-02,30.25
+1334,how to bypass nsfw filter character ai,2023-03,45.5
+1335,how to bypass nsfw filter character ai,2023-04,57.0
+1336,how to bypass nsfw filter character ai,2023-05,60.25
+1337,how to bypass nsfw filter character ai,2023-06,42.75
+1338,how to bypass nsfw filter character ai,2023-07,59.67
+1339,remove character ai nsfw filter,2022-07,0.0
+1340,remove character ai nsfw filter,2022-08,10.0
+1341,remove character ai nsfw filter,2022-09,6.0
+1342,remove character ai nsfw filter,2022-10,0.0
+1343,remove character ai nsfw filter,2022-11,16.5
+1344,remove character ai nsfw filter,2022-12,14.0
+1345,remove character ai nsfw filter,2023-01,8.8
+1346,remove character ai nsfw filter,2023-02,0.0
+1347,remove character ai nsfw filter,2023-03,5.25
+1348,remove character ai nsfw filter,2023-04,35.0
+1349,remove character ai nsfw filter,2023-05,32.5
+1350,remove character ai nsfw filter,2023-06,56.25
+1351,remove character ai nsfw filter,2023-07,55.33
+1352,character ai no nsfw filter,2022-07,0.0
+1353,character ai no nsfw filter,2022-08,0.0
+1354,character ai no nsfw filter,2022-09,0.0
+1355,character ai no nsfw filter,2022-10,11.0
+1356,character ai no nsfw filter,2022-11,9.75
+1357,character ai no nsfw filter,2022-12,13.0
+1358,character ai no nsfw filter,2023-01,34.4
+1359,character ai no nsfw filter,2023-02,0.0
+1360,character ai no nsfw filter,2023-03,11.5
+1361,character ai no nsfw filter,2023-04,58.6
+1362,character ai no nsfw filter,2023-05,36.5
+1363,character ai no nsfw filter,2023-06,51.5
+1364,character ai no nsfw filter,2023-07,49.33
+1365,character ai without nsfw filter,2022-07,0.0
+1366,character ai without nsfw filter,2022-08,7.25
+1367,character ai without nsfw filter,2022-09,19.25
+1368,character ai without nsfw filter,2022-10,5.6
+1369,character ai without nsfw filter,2022-11,5.75
+1370,character ai without nsfw filter,2022-12,0.0
+1371,character ai without nsfw filter,2023-01,6.4
+1372,character ai without nsfw filter,2023-02,0.0
+1373,character ai without nsfw filter,2023-03,0.0
+1374,character ai without nsfw filter,2023-04,11.0
+1375,character ai without nsfw filter,2023-05,14.75
+1376,character ai without nsfw filter,2023-06,14.25
+1377,character ai without nsfw filter,2023-07,66.33
+1378,character ai nsfw petition,2022-07,0.0
+1379,character ai nsfw petition,2022-08,4.5
+1380,character ai nsfw petition,2022-09,3.25
+1381,character ai nsfw petition,2022-10,0.0
+1382,character ai nsfw petition,2022-11,0.0
+1383,character ai nsfw petition,2022-12,4.0
+1384,character ai nsfw petition,2023-01,12.0
+1385,character ai nsfw petition,2023-02,0.0
+1386,character ai nsfw petition,2023-03,9.75
+1387,character ai nsfw petition,2023-04,69.2
+1388,character ai nsfw petition,2023-05,56.0
+1389,character ai nsfw petition,2023-06,38.75
+1390,character ai nsfw petition,2023-07,41.67
+1391,how to break character ai nsfw filter,2022-07,0.0
+1392,how to break character ai nsfw filter,2022-08,0.0
+1393,how to break character ai nsfw filter,2022-09,20.75
+1394,how to break character ai nsfw filter,2022-10,0.0
+1395,how to break character ai nsfw filter,2022-11,6.0
+1396,how to break character ai nsfw filter,2022-12,0.0
+1397,how to break character ai nsfw filter,2023-01,11.8
+1398,how to break character ai nsfw filter,2023-02,0.0
+1399,how to break character ai nsfw filter,2023-03,10.0
+1400,how to break character ai nsfw filter,2023-04,7.4
+1401,how to break character ai nsfw filter,2023-05,54.25
+1402,how to break character ai nsfw filter,2023-06,10.75
+1403,how to break character ai nsfw filter,2023-07,46.0
+1404,beta character ai nsfw filter bypass,2022-07,0.0
+1405,beta character ai nsfw filter bypass,2022-08,36.5
+1406,beta character ai nsfw filter bypass,2022-09,11.5
+1407,beta character ai nsfw filter bypass,2022-10,20.0
+1408,beta character ai nsfw filter bypass,2022-11,0.0
+1409,beta character ai nsfw filter bypass,2022-12,0.0
+1410,beta character ai nsfw filter bypass,2023-01,9.6
+1411,beta character ai nsfw filter bypass,2023-02,10.75
+1412,beta character ai nsfw filter bypass,2023-03,21.0
+1413,beta character ai nsfw filter bypass,2023-04,28.6
+1414,beta character ai nsfw filter bypass,2023-05,10.75
+1415,beta character ai nsfw filter bypass,2023-06,0.0
+1416,beta character ai nsfw filter bypass,2023-07,0.0
+1417,botify ai,2022-07,7.0
+1418,botify ai,2022-08,2.75
+1419,botify ai,2022-09,0.0
+1420,botify ai,2022-10,1.2
+1421,botify ai,2022-11,1.75
+1422,botify ai,2022-12,2.5
+1423,botify ai,2023-01,4.2
+1424,botify ai,2023-02,10.25
+1425,botify ai,2023-03,1.75
+1426,botify ai,2023-04,5.8
+1427,botify ai,2023-05,12.25
+1428,botify ai,2023-06,69.0
+1429,botify ai,2023-07,78.67
+1430,character ai nsfw filter remover,2022-07,0.0
+1431,character ai nsfw filter remover,2022-08,11.0
+1432,character ai nsfw filter remover,2022-09,27.5
+1433,character ai nsfw filter remover,2022-10,7.2
+1434,character ai nsfw filter remover,2022-11,0.0
+1435,character ai nsfw filter remover,2022-12,7.0
+1436,character ai nsfw filter remover,2023-01,14.0
+1437,character ai nsfw filter remover,2023-02,21.0
+1438,character ai nsfw filter remover,2023-03,0.0
+1439,character ai nsfw filter remover,2023-04,43.6
+1440,character ai nsfw filter remover,2023-05,0.0
+1441,character ai nsfw filter remover,2023-06,25.75
+1442,character ai nsfw filter remover,2023-07,15.33
+1443,crushon ai,2022-07,0.0
+1444,crushon ai,2022-08,0.0
+1445,crushon ai,2022-09,0.0
+1446,crushon ai,2022-10,1.6
+1447,crushon ai,2022-11,0.0
+1448,crushon ai,2022-12,0.0
+1449,crushon ai,2023-01,0.6
+1450,crushon ai,2023-02,0.75
+1451,crushon ai,2023-03,1.0
+1452,crushon ai,2023-04,1.0
+1453,crushon ai,2023-05,2.25
+1454,crushon ai,2023-06,30.75
+1455,crushon ai,2023-07,65.0
+1456,pygmalion ai,2022-07,4.0
+1457,pygmalion ai,2022-08,2.5
+1458,pygmalion ai,2022-09,0.0
+1459,pygmalion ai,2022-10,0.0
+1460,pygmalion ai,2022-11,2.75
+1461,pygmalion ai,2022-12,0.75
+1462,pygmalion ai,2023-01,34.0
+1463,pygmalion ai,2023-02,49.25
+1464,pygmalion ai,2023-03,42.0
+1465,pygmalion ai,2023-04,66.0
+1466,pygmalion ai,2023-05,43.25
+1467,pygmalion ai,2023-06,40.5
+1468,pygmalion ai,2023-07,37.0
+1469,roleplai,2022-07,0.0
+1470,roleplai,2022-08,1.75
+1471,roleplai,2022-09,0.0
+1472,roleplai,2022-10,0.0
+1473,roleplai,2022-11,0.0
+1474,roleplai,2022-12,0.0
+1475,roleplai,2023-01,1.2
+1476,roleplai,2023-02,2.0
+1477,roleplai,2023-03,5.75
+1478,roleplai,2023-04,69.6
+1479,roleplai,2023-05,30.5
+1480,roleplai,2023-06,19.75
+1481,roleplai,2023-07,15.67
+1482,how to bypass the nsfw filter on character ai,2022-07,0.0
+1483,how to bypass the nsfw filter on character ai,2022-08,11.25
+1484,how to bypass the nsfw filter on character ai,2022-09,43.0
+1485,how to bypass the nsfw filter on character ai,2022-10,18.0
+1486,how to bypass the nsfw filter on character ai,2022-11,12.75
+1487,how to bypass the nsfw filter on character ai,2022-12,0.0
+1488,how to bypass the nsfw filter on character ai,2023-01,12.0
+1489,how to bypass the nsfw filter on character ai,2023-02,0.0
+1490,how to bypass the nsfw filter on character ai,2023-03,0.0
+1491,how to bypass the nsfw filter on character ai,2023-04,38.0
+1492,how to bypass the nsfw filter on character ai,2023-05,50.75
+1493,how to bypass the nsfw filter on character ai,2023-06,27.0
+1494,how to bypass the nsfw filter on character ai,2023-07,21.33
+1495,ai image generator free,2022-07,10.0
+1496,ai image generator free,2022-08,15.0
+1497,ai image generator free,2022-09,9.75
+1498,ai image generator free,2022-10,14.8
+1499,ai image generator free,2022-11,17.0
+1500,ai image generator free,2022-12,31.0
+1501,ai image generator free,2023-01,29.4
+1502,ai image generator free,2023-02,34.75
+1503,ai image generator free,2023-03,46.75
+1504,ai image generator free,2023-04,75.4
+1505,ai image generator free,2023-05,91.25
+1506,ai image generator free,2023-06,91.5
+1507,ai image generator free,2023-07,95.67
+1508,nsfw ai image generator 2023,2022-07,0.0
+1509,nsfw ai image generator 2023,2022-08,5.25
+1510,nsfw ai image generator 2023,2022-09,5.5
+1511,nsfw ai image generator 2023,2022-10,8.8
+1512,nsfw ai image generator 2023,2022-11,5.25
+1513,nsfw ai image generator 2023,2022-12,0.0
+1514,nsfw ai image generator 2023,2023-01,0.0
+1515,nsfw ai image generator 2023,2023-02,10.25
+1516,nsfw ai image generator 2023,2023-03,20.75
+1517,nsfw ai image generator 2023,2023-04,17.4
+1518,nsfw ai image generator 2023,2023-05,49.25
+1519,nsfw ai image generator 2023,2023-06,29.0
+1520,nsfw ai image generator 2023,2023-07,33.33
+1521,nsfw ai text to image generator,2022-07,0.0
+1522,nsfw ai text to image generator,2022-08,0.0
+1523,nsfw ai text to image generator,2022-09,24.75
+1524,nsfw ai text to image generator,2022-10,17.4
+1525,nsfw ai text to image generator,2022-11,16.25
+1526,nsfw ai text to image generator,2022-12,0.0
+1527,nsfw ai text to image generator,2023-01,12.2
+1528,nsfw ai text to image generator,2023-02,18.25
+1529,nsfw ai text to image generator,2023-03,0.0
+1530,nsfw ai text to image generator,2023-04,11.0
+1531,nsfw ai text to image generator,2023-05,11.75
+1532,nsfw ai text to image generator,2023-06,18.0
+1533,nsfw ai text to image generator,2023-07,33.33
+1534,mage space,2022-07,0.0
+1535,mage space,2022-08,5.75
+1536,mage space,2022-09,7.25
+1537,mage space,2022-10,12.8
+1538,mage space,2022-11,18.25
+1539,mage space,2022-12,28.75
+1540,mage space,2023-01,32.6
+1541,mage space,2023-02,27.75
+1542,mage space,2023-03,52.5
+1543,mage space,2023-04,42.0
+1544,mage space,2023-05,34.5
+1545,mage space,2023-06,29.5
+1546,mage space,2023-07,25.67
+1547,novelai image generation,2022-07,0.0
+1548,novelai image generation,2022-08,2.25
+1549,novelai image generation,2022-09,4.0
+1550,novelai image generation,2022-10,58.2
+1551,novelai image generation,2022-11,29.25
+1552,novelai image generation,2022-12,21.0
+1553,novelai image generation,2023-01,10.8
+1554,novelai image generation,2023-02,13.75
+1555,novelai image generation,2023-03,8.25
+1556,novelai image generation,2023-04,9.0
+1557,novelai image generation,2023-05,6.0
+1558,novelai image generation,2023-06,2.5
+1559,novelai image generation,2023-07,3.33
+1560,bing,2022-07,61.0
+1561,bing,2022-08,59.5
+1562,bing,2022-09,57.75
+1563,bing,2022-10,59.2
+1564,bing,2022-11,73.75
+1565,bing,2022-12,75.5
+1566,bing,2023-01,64.2
+1567,bing,2023-02,85.0
+1568,bing,2023-03,71.0
+1569,bing,2023-04,72.0
+1570,bing,2023-05,68.25
+1571,bing,2023-06,65.0
+1572,bing,2023-07,63.0
+1573,nsfw art generator,2022-07,0.0
+1574,nsfw art generator,2022-08,4.25
+1575,nsfw art generator,2022-09,6.25
+1576,nsfw art generator,2022-10,13.2
+1577,nsfw art generator,2022-11,13.5
+1578,nsfw art generator,2022-12,38.75
+1579,nsfw art generator,2023-01,30.8
+1580,nsfw art generator,2023-02,57.25
+1581,nsfw art generator,2023-03,59.5
+1582,nsfw art generator,2023-04,49.6
+1583,nsfw art generator,2023-05,51.5
+1584,nsfw art generator,2023-06,65.25
+1585,nsfw art generator,2023-07,81.67
+1586,starryai,2022-07,31.0
+1587,starryai,2022-08,24.5
+1588,starryai,2022-09,48.25
+1589,starryai,2022-10,39.6
+1590,starryai,2022-11,27.25
+1591,starryai,2022-12,33.5
+1592,starryai,2023-01,33.4
+1593,starryai,2023-02,45.5
+1594,starryai,2023-03,49.75
+1595,starryai,2023-04,74.8
+1596,starryai,2023-05,75.25
+1597,starryai,2023-06,64.25
+1598,starryai,2023-07,53.0
+1599,dream by wombo,2022-07,13.0
+1600,dream by wombo,2022-08,41.5
+1601,dream by wombo,2022-09,44.0
+1602,dream by wombo,2022-10,64.8
+1603,dream by wombo,2022-11,56.5
+1604,dream by wombo,2022-12,47.5
+1605,dream by wombo,2023-01,50.8
+1606,dream by wombo,2023-02,71.25
+1607,dream by wombo,2023-03,64.5
+1608,dream by wombo,2023-04,75.4
+1609,dream by wombo,2023-05,56.25
+1610,dream by wombo,2023-06,46.75
+1611,dream by wombo,2023-07,33.67
+1612,stable diffusion art,2022-07,0.0
+1613,stable diffusion art,2022-08,14.5
+1614,stable diffusion art,2022-09,57.75
+1615,stable diffusion art,2022-10,65.0
+1616,stable diffusion art,2022-11,42.25
+1617,stable diffusion art,2022-12,78.25
+1618,stable diffusion art,2023-01,63.2
+1619,stable diffusion art,2023-02,62.25
+1620,stable diffusion art,2023-03,71.75
+1621,stable diffusion art,2023-04,64.0
+1622,stable diffusion art,2023-05,58.25
+1623,stable diffusion art,2023-06,40.0
+1624,stable diffusion art,2023-07,41.0
+1625,ai art stable diffusion,2022-07,0.0
+1626,ai art stable diffusion,2022-08,12.25
+1627,ai art stable diffusion,2022-09,58.5
+1628,ai art stable diffusion,2022-10,58.8
+1629,ai art stable diffusion,2022-11,41.25
+1630,ai art stable diffusion,2022-12,73.75
+1631,ai art stable diffusion,2023-01,62.4
+1632,ai art stable diffusion,2023-02,60.5
+1633,ai art stable diffusion,2023-03,70.75
+1634,ai art stable diffusion,2023-04,62.2
+1635,ai art stable diffusion,2023-05,56.25
+1636,ai art stable diffusion,2023-06,42.25
+1637,ai art stable diffusion,2023-07,40.67
+1638,stable diffusion ai art,2022-07,0.0
+1639,stable diffusion ai art,2022-08,12.25
+1640,stable diffusion ai art,2022-09,58.5
+1641,stable diffusion ai art,2022-10,58.8
+1642,stable diffusion ai art,2022-11,41.25
+1643,stable diffusion ai art,2022-12,73.75
+1644,stable diffusion ai art,2023-01,62.4
+1645,stable diffusion ai art,2023-02,60.5
+1646,stable diffusion ai art,2023-03,70.75
+1647,stable diffusion ai art,2023-04,62.2
+1648,stable diffusion ai art,2023-05,56.25
+1649,stable diffusion ai art,2023-06,42.25
+1650,stable diffusion ai art,2023-07,40.67
+1651,art ai generator,2022-07,9.0
+1652,art ai generator,2022-08,12.5
+1653,art ai generator,2022-09,16.5
+1654,art ai generator,2022-10,16.4
+1655,art ai generator,2022-11,19.25
+1656,art ai generator,2022-12,49.0
+1657,art ai generator,2023-01,25.8
+1658,art ai generator,2023-02,24.0
+1659,art ai generator,2023-03,24.0
+1660,art ai generator,2023-04,27.0
+1661,art ai generator,2023-05,25.25
+1662,art ai generator,2023-06,21.5
+1663,art ai generator,2023-07,21.0
+1664,ai art generator stable diffusion,2022-07,0.0
+1665,ai art generator stable diffusion,2022-08,16.25
+1666,ai art generator stable diffusion,2022-09,61.75
+1667,ai art generator stable diffusion,2022-10,65.4
+1668,ai art generator stable diffusion,2022-11,46.0
+1669,ai art generator stable diffusion,2022-12,72.25
+1670,ai art generator stable diffusion,2023-01,65.6
+1671,ai art generator stable diffusion,2023-02,68.0
+1672,ai art generator stable diffusion,2023-03,73.5
+1673,ai art generator stable diffusion,2023-04,64.2
+1674,ai art generator stable diffusion,2023-05,67.75
+1675,ai art generator stable diffusion,2023-06,44.25
+1676,ai art generator stable diffusion,2023-07,38.67
+1677,stable diffusion ai free,2022-07,0.0
+1678,stable diffusion ai free,2022-08,0.0
+1679,stable diffusion ai free,2022-09,21.75
+1680,stable diffusion ai free,2022-10,35.0
+1681,stable diffusion ai free,2022-11,26.75
+1682,stable diffusion ai free,2022-12,49.0
+1683,stable diffusion ai free,2023-01,52.0
+1684,stable diffusion ai free,2023-02,66.0
+1685,stable diffusion ai free,2023-03,55.25
+1686,stable diffusion ai free,2023-04,83.4
+1687,stable diffusion ai free,2023-05,65.0
+1688,stable diffusion ai free,2023-06,77.0
+1689,stable diffusion ai free,2023-07,55.67
+1690,stable diffusion ai image generator,2022-07,0.0
+1691,stable diffusion ai image generator,2022-08,22.5
+1692,stable diffusion ai image generator,2022-09,48.25
+1693,stable diffusion ai image generator,2022-10,37.2
+1694,stable diffusion ai image generator,2022-11,28.25
+1695,stable diffusion ai image generator,2022-12,57.0
+1696,stable diffusion ai image generator,2023-01,46.8
+1697,stable diffusion ai image generator,2023-02,56.0
+1698,stable diffusion ai image generator,2023-03,64.75
+1699,stable diffusion ai image generator,2023-04,69.4
+1700,stable diffusion ai image generator,2023-05,71.25
+1701,stable diffusion ai image generator,2023-06,67.5
+1702,stable diffusion ai image generator,2023-07,41.67
+1703,image to image ai,2022-07,25.0
+1704,image to image ai,2022-08,23.5
+1705,image to image ai,2022-09,27.0
+1706,image to image ai,2022-10,29.0
+1707,image to image ai,2022-11,31.0
+1708,image to image ai,2022-12,49.5
+1709,image to image ai,2023-01,49.0
+1710,image to image ai,2023-02,55.5
+1711,image to image ai,2023-03,67.75
+1712,image to image ai,2023-04,87.4
+1713,image to image ai,2023-05,90.75
+1714,image to image ai,2023-06,89.75
+1715,image to image ai,2023-07,91.0
+1716,stable diffusion image to image,2022-07,9.0
+1717,stable diffusion image to image,2022-08,19.5
+1718,stable diffusion image to image,2022-09,40.0
+1719,stable diffusion image to image,2022-10,39.4
+1720,stable diffusion image to image,2022-11,42.75
+1721,stable diffusion image to image,2022-12,58.25
+1722,stable diffusion image to image,2023-01,49.2
+1723,stable diffusion image to image,2023-02,60.0
+1724,stable diffusion image to image,2023-03,70.75
+1725,stable diffusion image to image,2023-04,75.2
+1726,stable diffusion image to image,2023-05,59.75
+1727,stable diffusion image to image,2023-06,58.5
+1728,stable diffusion image to image,2023-07,57.33
+1729,nsfw stable diffusion ai,2022-07,0.0
+1730,nsfw stable diffusion ai,2022-08,6.5
+1731,nsfw stable diffusion ai,2022-09,25.5
+1732,nsfw stable diffusion ai,2022-10,29.2
+1733,nsfw stable diffusion ai,2022-11,31.5
+1734,nsfw stable diffusion ai,2022-12,51.75
+1735,nsfw stable diffusion ai,2023-01,44.4
+1736,nsfw stable diffusion ai,2023-02,82.75
+1737,nsfw stable diffusion ai,2023-03,76.0
+1738,nsfw stable diffusion ai,2023-04,54.6
+1739,nsfw stable diffusion ai,2023-05,70.25
+1740,nsfw stable diffusion ai,2023-06,60.0
+1741,nsfw stable diffusion ai,2023-07,41.0
+1742,stable diffusion ai download,2022-07,26.0
+1743,stable diffusion ai download,2022-08,17.5
+1744,stable diffusion ai download,2022-09,53.0
+1745,stable diffusion ai download,2022-10,60.8
+1746,stable diffusion ai download,2022-11,16.75
+1747,stable diffusion ai download,2022-12,32.75
+1748,stable diffusion ai download,2023-01,30.2
+1749,stable diffusion ai download,2023-02,48.75
+1750,stable diffusion ai download,2023-03,45.75
+1751,stable diffusion ai download,2023-04,64.4
+1752,stable diffusion ai download,2023-05,34.75
+1753,stable diffusion ai download,2023-06,40.25
+1754,stable diffusion ai download,2023-07,69.67
+1755,stable diffusion model,2022-07,0.0
+1756,stable diffusion model,2022-08,11.25
+1757,stable diffusion model,2022-09,27.25
+1758,stable diffusion model,2022-10,47.0
+1759,stable diffusion model,2022-11,38.25
+1760,stable diffusion model,2022-12,53.5
+1761,stable diffusion model,2023-01,53.2
+1762,stable diffusion model,2023-02,66.0
+1763,stable diffusion model,2023-03,89.25
+1764,stable diffusion model,2023-04,93.2
+1765,stable diffusion model,2023-05,67.25
+1766,stable diffusion model,2023-06,69.0
+1767,stable diffusion model,2023-07,68.67
+1768,stable diffusion ai generator nsfw,2022-07,0.0
+1769,stable diffusion ai generator nsfw,2022-08,5.5
+1770,stable diffusion ai generator nsfw,2022-09,17.25
+1771,stable diffusion ai generator nsfw,2022-10,11.4
+1772,stable diffusion ai generator nsfw,2022-11,12.5
+1773,stable diffusion ai generator nsfw,2022-12,23.0
+1774,stable diffusion ai generator nsfw,2023-01,39.4
+1775,stable diffusion ai generator nsfw,2023-02,50.5
+1776,stable diffusion ai generator nsfw,2023-03,31.5
+1777,stable diffusion ai generator nsfw,2023-04,25.2
+1778,stable diffusion ai generator nsfw,2023-05,32.5
+1779,stable diffusion ai generator nsfw,2023-06,44.0
+1780,stable diffusion ai generator nsfw,2023-07,28.33
+1781,stable diffusion download,2022-07,0.0
+1782,stable diffusion download,2022-08,21.25
+1783,stable diffusion download,2022-09,64.5
+1784,stable diffusion download,2022-10,68.4
+1785,stable diffusion download,2022-11,38.5
+1786,stable diffusion download,2022-12,54.5
+1787,stable diffusion download,2023-01,58.8
+1788,stable diffusion download,2023-02,76.0
+1789,stable diffusion download,2023-03,79.5
+1790,stable diffusion download,2023-04,84.2
+1791,stable diffusion download,2023-05,61.75
+1792,stable diffusion download,2023-06,77.75
+1793,stable diffusion download,2023-07,70.33
+1794,ai art generator free,2022-07,12.0
+1795,ai art generator free,2022-08,18.75
+1796,ai art generator free,2022-09,25.25
+1797,ai art generator free,2022-10,32.8
+1798,ai art generator free,2022-11,36.25
+1799,ai art generator free,2022-12,70.75
+1800,ai art generator free,2023-01,67.2
+1801,ai art generator free,2023-02,60.5
+1802,ai art generator free,2023-03,62.75
+1803,ai art generator free,2023-04,88.2
+1804,ai art generator free,2023-05,87.0
+1805,ai art generator free,2023-06,85.75
+1806,ai art generator free,2023-07,79.33
+1807,stable diffusion nsfw filter off,2022-07,0.0
+1808,stable diffusion nsfw filter off,2022-08,37.0
+1809,stable diffusion nsfw filter off,2022-09,33.0
+1810,stable diffusion nsfw filter off,2022-10,0.0
+1811,stable diffusion nsfw filter off,2022-11,17.5
+1812,stable diffusion nsfw filter off,2022-12,27.5
+1813,stable diffusion nsfw filter off,2023-01,19.4
+1814,stable diffusion nsfw filter off,2023-02,23.0
+1815,stable diffusion nsfw filter off,2023-03,0.0
+1816,stable diffusion nsfw filter off,2023-04,10.4
+1817,stable diffusion nsfw filter off,2023-05,0.0
+1818,stable diffusion nsfw filter off,2023-06,21.0
+1819,stable diffusion nsfw filter off,2023-07,22.67
+1820,how to use stable diffusion,2022-07,0.0
+1821,how to use stable diffusion,2022-08,14.5
+1822,how to use stable diffusion,2022-09,37.25
+1823,how to use stable diffusion,2022-10,39.2
+1824,how to use stable diffusion,2022-11,30.75
+1825,how to use stable diffusion,2022-12,39.5
+1826,how to use stable diffusion,2023-01,54.0
+1827,how to use stable diffusion,2023-02,61.25
+1828,how to use stable diffusion,2023-03,86.0
+1829,how to use stable diffusion,2023-04,90.4
+1830,how to use stable diffusion,2023-05,77.25
+1831,how to use stable diffusion,2023-06,78.5
+1832,how to use stable diffusion,2023-07,47.67
+1833,diffusion ai,2022-07,4.0
+1834,diffusion ai,2022-08,27.25
+1835,diffusion ai,2022-09,62.0
+1836,diffusion ai,2022-10,72.6
+1837,diffusion ai,2022-11,49.25
+1838,diffusion ai,2022-12,76.5
+1839,diffusion ai,2023-01,68.4
+1840,diffusion ai,2023-02,75.25
+1841,diffusion ai,2023-03,79.5
+1842,diffusion ai,2023-04,86.6
+1843,diffusion ai,2023-05,81.5
+1844,diffusion ai,2023-06,71.0
+1845,diffusion ai,2023-07,66.33
+1846,reddit stable diffusion,2022-07,10.0
+1847,reddit stable diffusion,2022-08,34.0
+1848,reddit stable diffusion,2022-09,58.25
+1849,reddit stable diffusion,2022-10,54.0
+1850,reddit stable diffusion,2022-11,45.0
+1851,reddit stable diffusion,2022-12,60.5
+1852,reddit stable diffusion,2023-01,56.4
+1853,reddit stable diffusion,2023-02,72.75
+1854,reddit stable diffusion,2023-03,71.0
+1855,reddit stable diffusion,2023-04,89.0
+1856,reddit stable diffusion,2023-05,89.25
+1857,reddit stable diffusion,2023-06,69.0
+1858,reddit stable diffusion,2023-07,72.67
+1859,diffusion model,2022-07,12.0
+1860,diffusion model,2022-08,24.0
+1861,diffusion model,2022-09,57.25
+1862,diffusion model,2022-10,79.6
+1863,diffusion model,2022-11,62.5
+1864,diffusion model,2022-12,66.0
+1865,diffusion model,2023-01,64.6
+1866,diffusion model,2023-02,82.0
+1867,diffusion model,2023-03,87.75
+1868,diffusion model,2023-04,95.4
+1869,diffusion model,2023-05,71.5
+1870,diffusion model,2023-06,63.75
+1871,diffusion model,2023-07,64.67
+1872,stable diffusion models,2022-07,0.0
+1873,stable diffusion models,2022-08,4.25
+1874,stable diffusion models,2022-09,12.25
+1875,stable diffusion models,2022-10,30.6
+1876,stable diffusion models,2022-11,29.0
+1877,stable diffusion models,2022-12,45.75
+1878,stable diffusion models,2023-01,43.4
+1879,stable diffusion models,2023-02,61.75
+1880,stable diffusion models,2023-03,82.75
+1881,stable diffusion models,2023-04,82.2
+1882,stable diffusion models,2023-05,77.75
+1883,stable diffusion models,2023-06,70.0
+1884,stable diffusion models,2023-07,61.67
+1885,free stable diffusion,2022-07,0.0
+1886,free stable diffusion,2022-08,13.5
+1887,free stable diffusion,2022-09,29.0
+1888,free stable diffusion,2022-10,41.4
+1889,free stable diffusion,2022-11,35.5
+1890,free stable diffusion,2022-12,59.25
+1891,free stable diffusion,2023-01,60.2
+1892,free stable diffusion,2023-02,59.75
+1893,free stable diffusion,2023-03,60.25
+1894,free stable diffusion,2023-04,84.8
+1895,free stable diffusion,2023-05,76.0
+1896,free stable diffusion,2023-06,76.0
+1897,free stable diffusion,2023-07,53.67
+1898,install stable diffusion,2022-07,9.0
+1899,install stable diffusion,2022-08,20.25
+1900,install stable diffusion,2022-09,62.75
+1901,install stable diffusion,2022-10,44.2
+1902,install stable diffusion,2022-11,39.25
+1903,install stable diffusion,2022-12,64.5
+1904,install stable diffusion,2023-01,57.2
+1905,install stable diffusion,2023-02,71.0
+1906,install stable diffusion,2023-03,76.75
+1907,install stable diffusion,2023-04,66.6
+1908,install stable diffusion,2023-05,69.0
+1909,install stable diffusion,2023-06,66.5
+1910,install stable diffusion,2023-07,64.33
+1911,nsfw stable diffusion,2022-07,0.0
+1912,nsfw stable diffusion,2022-08,9.25
+1913,nsfw stable diffusion,2022-09,29.0
+1914,nsfw stable diffusion,2022-10,35.2
+1915,nsfw stable diffusion,2022-11,32.0
+1916,nsfw stable diffusion,2022-12,48.75
+1917,nsfw stable diffusion,2023-01,47.4
+1918,nsfw stable diffusion,2023-02,71.0
+1919,nsfw stable diffusion,2023-03,70.5
+1920,nsfw stable diffusion,2023-04,59.2
+1921,nsfw stable diffusion,2023-05,67.25
+1922,nsfw stable diffusion,2023-06,56.0
+1923,nsfw stable diffusion,2023-07,57.0
+1924,webui,2022-07,30.0
+1925,webui,2022-08,33.75
+1926,webui,2022-09,46.0
+1927,webui,2022-10,50.6
+1928,webui,2022-11,40.25
+1929,webui,2022-12,44.25
+1930,webui,2023-01,38.4
+1931,webui,2023-02,61.25
+1932,webui,2023-03,86.75
+1933,webui,2023-04,78.2
+1934,webui,2023-05,67.25
+1935,webui,2023-06,66.25
+1936,webui,2023-07,64.67
+1937,stable diffusion webui,2022-07,0.0
+1938,stable diffusion webui,2022-08,5.75
+1939,stable diffusion webui,2022-09,25.0
+1940,stable diffusion webui,2022-10,38.2
+1941,stable diffusion webui,2022-11,32.25
+1942,stable diffusion webui,2022-12,38.0
+1943,stable diffusion webui,2023-01,30.0
+1944,stable diffusion webui,2023-02,69.5
+1945,stable diffusion webui,2023-03,86.25
+1946,stable diffusion webui,2023-04,83.0
+1947,stable diffusion webui,2023-05,58.5
+1948,stable diffusion webui,2023-06,57.75
+1949,stable diffusion webui,2023-07,49.0
+1950,lora stable diffusion,2022-07,0.0
+1951,lora stable diffusion,2022-08,1.25
+1952,lora stable diffusion,2022-09,0.0
+1953,lora stable diffusion,2022-10,0.0
+1954,lora stable diffusion,2022-11,3.5
+1955,lora stable diffusion,2022-12,2.0
+1956,lora stable diffusion,2023-01,11.6
+1957,lora stable diffusion,2023-02,44.25
+1958,lora stable diffusion,2023-03,89.0
+1959,lora stable diffusion,2023-04,77.8
+1960,lora stable diffusion,2023-05,75.75
+1961,lora stable diffusion,2023-06,61.25
+1962,lora stable diffusion,2023-07,69.0
+1963,lora,2022-07,70.0
+1964,lora,2022-08,66.75
+1965,lora,2022-09,69.5
+1966,lora,2022-10,65.8
+1967,lora,2022-11,66.25
+1968,lora,2022-12,68.75
+1969,lora,2023-01,75.2
+1970,lora,2023-02,85.25
+1971,lora,2023-03,87.25
+1972,lora,2023-04,90.4
+1973,lora,2023-05,90.25
+1974,lora,2023-06,92.25
+1975,lora,2023-07,90.67
+1976,github,2022-07,71.0
+1977,github,2022-08,69.75
+1978,github,2022-09,76.25
+1979,github,2022-10,78.0
+1980,github,2022-11,72.75
+1981,github,2022-12,67.25
+1982,github,2023-01,78.6
+1983,github,2023-02,88.25
+1984,github,2023-03,93.5
+1985,github,2023-04,90.8
+1986,github,2023-05,82.75
+1987,github,2023-06,74.0
+1988,github,2023-07,73.67
+1989,github stable diffusion,2022-07,0.0
+1990,github stable diffusion,2022-08,39.25
+1991,github stable diffusion,2022-09,63.25
+1992,github stable diffusion,2022-10,57.6
+1993,github stable diffusion,2022-11,43.25
+1994,github stable diffusion,2022-12,44.5
+1995,github stable diffusion,2023-01,47.8
+1996,github stable diffusion,2023-02,65.5
+1997,github stable diffusion,2023-03,72.25
+1998,github stable diffusion,2023-04,74.4
+1999,github stable diffusion,2023-05,53.5
+2000,github stable diffusion,2023-06,66.75
+2001,github stable diffusion,2023-07,65.33
+2002,stable diffusion image generator,2022-07,0.0
+2003,stable diffusion image generator,2022-08,15.5
+2004,stable diffusion image generator,2022-09,37.5
+2005,stable diffusion image generator,2022-10,51.2
+2006,stable diffusion image generator,2022-11,34.75
+2007,stable diffusion image generator,2022-12,60.0
+2008,stable diffusion image generator,2023-01,48.2
+2009,stable diffusion image generator,2023-02,56.0
+2010,stable diffusion image generator,2023-03,73.5
+2011,stable diffusion image generator,2023-04,81.2
+2012,stable diffusion image generator,2023-05,63.25
+2013,stable diffusion image generator,2023-06,74.0
+2014,stable diffusion image generator,2023-07,53.33
+2015,python,2022-07,81.0
+2016,python,2022-08,79.5
+2017,python,2022-09,91.5
+2018,python,2022-10,95.2
+2019,python,2022-11,85.25
+2020,python,2022-12,72.25
+2021,python,2023-01,80.2
+2022,python,2023-02,94.25
+2023,python,2023-03,86.75
+2024,python,2023-04,82.4
+2025,python,2023-05,70.5
+2026,python,2023-06,73.75
+2027,python,2023-07,78.33
+2028,stable diffusion windows,2022-07,8.0
+2029,stable diffusion windows,2022-08,22.5
+2030,stable diffusion windows,2022-09,73.75
+2031,stable diffusion windows,2022-10,54.6
+2032,stable diffusion windows,2022-11,38.75
+2033,stable diffusion windows,2022-12,45.5
+2034,stable diffusion windows,2023-01,48.2
+2035,stable diffusion windows,2023-02,51.75
+2036,stable diffusion windows,2023-03,64.75
+2037,stable diffusion windows,2023-04,53.8
+2038,stable diffusion windows,2023-05,52.5
+2039,stable diffusion windows,2023-06,44.75
+2040,stable diffusion windows,2023-07,43.33
+2041,free image ai generator,2022-07,13.0
+2042,free image ai generator,2022-08,15.0
+2043,free image ai generator,2022-09,12.25
+2044,free image ai generator,2022-10,15.4
+2045,free image ai generator,2022-11,17.75
+2046,free image ai generator,2022-12,29.75
+2047,free image ai generator,2023-01,31.0
+2048,free image ai generator,2023-02,33.75
+2049,free image ai generator,2023-03,46.25
+2050,free image ai generator,2023-04,76.4
+2051,free image ai generator,2023-05,90.5
+2052,free image ai generator,2023-06,92.5
+2053,free image ai generator,2023-07,96.0
+2054,free image generator,2022-07,16.0
+2055,free image generator,2022-08,17.75
+2056,free image generator,2022-09,16.25
+2057,free image generator,2022-10,19.4
+2058,free image generator,2022-11,21.25
+2059,free image generator,2022-12,34.75
+2060,free image generator,2023-01,34.0
+2061,free image generator,2023-02,40.0
+2062,free image generator,2023-03,51.5
+2063,free image generator,2023-04,80.2
+2064,free image generator,2023-05,95.25
+2065,free image generator,2023-06,94.0
+2066,free image generator,2023-07,97.33
+2067,ai text generator,2022-07,31.0
+2068,ai text generator,2022-08,31.75
+2069,ai text generator,2022-09,35.0
+2070,ai text generator,2022-10,30.6
+2071,ai text generator,2022-11,30.5
+2072,ai text generator,2022-12,62.75
+2073,ai text generator,2023-01,64.4
+2074,ai text generator,2023-02,72.0
+2075,ai text generator,2023-03,83.75
+2076,ai text generator,2023-04,92.4
+2077,ai text generator,2023-05,92.5
+2078,ai text generator,2023-06,81.25
+2079,ai text generator,2023-07,77.33
+2080,ai generator from image,2022-07,50.0
+2081,ai generator from image,2022-08,42.0
+2082,ai generator from image,2022-09,40.0
+2083,ai generator from image,2022-10,38.2
+2084,ai generator from image,2022-11,35.25
+2085,ai generator from image,2022-12,69.5
+2086,ai generator from image,2023-01,52.0
+2087,ai generator from image,2023-02,59.25
+2088,ai generator from image,2023-03,56.5
+2089,ai generator from image,2023-04,83.8
+2090,ai generator from image,2023-05,85.25
+2091,ai generator from image,2023-06,84.75
+2092,ai generator from image,2023-07,82.0
+2093,ai image generator dall e,2022-07,56.0
+2094,ai image generator dall e,2022-08,75.0
+2095,ai image generator dall e,2022-09,49.0
+2096,ai image generator dall e,2022-10,34.4
+2097,ai image generator dall e,2022-11,32.25
+2098,ai image generator dall e,2022-12,49.25
+2099,ai image generator dall e,2023-01,46.0
+2100,ai image generator dall e,2023-02,34.0
+2101,ai image generator dall e,2023-03,48.75
+2102,ai image generator dall e,2023-04,67.6
+2103,ai image generator dall e,2023-05,43.25
+2104,ai image generator dall e,2023-06,39.0
+2105,ai image generator dall e,2023-07,26.33
+2106,ai images,2022-07,36.0
+2107,ai images,2022-08,44.5
+2108,ai images,2022-09,31.75
+2109,ai images,2022-10,31.2
+2110,ai images,2022-11,36.0
+2111,ai images,2022-12,60.0
+2112,ai images,2023-01,47.6
+2113,ai images,2023-02,53.0
+2114,ai images,2023-03,65.25
+2115,ai images,2023-04,77.4
+2116,ai images,2023-05,79.0
+2117,ai images,2023-06,71.75
+2118,ai images,2023-07,77.0
+2119,fotor,2022-07,31.0
+2120,fotor,2022-08,20.75
+2121,fotor,2022-09,28.0
+2122,fotor,2022-10,33.0
+2123,fotor,2022-11,35.5
+2124,fotor,2022-12,58.5
+2125,fotor,2023-01,71.8
+2126,fotor,2023-02,63.25
+2127,fotor,2023-03,75.75
+2128,fotor,2023-04,85.2
+2129,fotor,2023-05,82.25
+2130,fotor,2023-06,77.0
+2131,fotor,2023-07,83.33
+2132,fotor ai image generator,2022-07,70.0
+2133,fotor ai image generator,2022-08,17.0
+2134,fotor ai image generator,2022-09,8.25
+2135,fotor ai image generator,2022-10,5.0
+2136,fotor ai image generator,2022-11,8.0
+2137,fotor ai image generator,2022-12,6.75
+2138,fotor ai image generator,2023-01,60.6
+2139,fotor ai image generator,2023-02,20.5
+2140,fotor ai image generator,2023-03,33.75
+2141,fotor ai image generator,2023-04,56.8
+2142,fotor ai image generator,2023-05,47.0
+2143,fotor ai image generator,2023-06,34.25
+2144,fotor ai image generator,2023-07,54.67
+2145,ai graphic generator,2022-07,0.0
+2146,ai graphic generator,2022-08,2.75
+2147,ai graphic generator,2022-09,2.25
+2148,ai graphic generator,2022-10,7.2
+2149,ai graphic generator,2022-11,6.25
+2150,ai graphic generator,2022-12,23.0
+2151,ai graphic generator,2023-01,31.6
+2152,ai graphic generator,2023-02,42.0
+2153,ai graphic generator,2023-03,45.5
+2154,ai graphic generator,2023-04,77.6
+2155,ai graphic generator,2023-05,63.5
+2156,ai graphic generator,2023-06,66.0
+2157,ai graphic generator,2023-07,68.33
+2158,character ai chai,2022-07,0.0
+2159,character ai chai,2022-08,2.25
+2160,character ai chai,2022-09,0.0
+2161,character ai chai,2022-10,1.0
+2162,character ai chai,2022-11,1.75
+2163,character ai chai,2022-12,0.0
+2164,character ai chai,2023-01,3.8
+2165,character ai chai,2023-02,4.75
+2166,character ai chai,2023-03,8.25
+2167,character ai chai,2023-04,42.4
+2168,character ai chai,2023-05,43.25
+2169,character ai chai,2023-06,46.5
+2170,character ai chai,2023-07,67.33
+2171,character,2022-07,66.0
+2172,character,2022-08,65.0
+2173,character,2022-09,69.25
+2174,character,2022-10,74.4
+2175,character,2022-11,65.5
+2176,character,2022-12,67.0
+2177,character,2023-01,73.8
+2178,character,2023-02,77.25
+2179,character,2023-03,76.0
+2180,character,2023-04,87.0
+2181,character,2023-05,92.75
+2182,character,2023-06,82.0
+2183,character,2023-07,83.33
+2184,chai ai app,2022-07,12.0
+2185,chai ai app,2022-08,3.5
+2186,chai ai app,2022-09,10.5
+2187,chai ai app,2022-10,4.6
+2188,chai ai app,2022-11,5.25
+2189,chai ai app,2022-12,6.75
+2190,chai ai app,2023-01,4.6
+2191,chai ai app,2023-02,7.75
+2192,chai ai app,2023-03,15.25
+2193,chai ai app,2023-04,66.0
+2194,chai ai app,2023-05,58.5
+2195,chai ai app,2023-06,63.0
+2196,chai ai app,2023-07,65.67
+2197,ai website,2022-07,10.0
+2198,ai website,2022-08,11.0
+2199,ai website,2022-09,13.75
+2200,ai website,2022-10,13.4
+2201,ai website,2022-11,17.0
+2202,ai website,2022-12,33.75
+2203,ai website,2023-01,47.0
+2204,ai website,2023-02,53.25
+2205,ai website,2023-03,60.0
+2206,ai website,2023-04,84.6
+2207,ai website,2023-05,84.75
+2208,ai website,2023-06,84.75
+2209,ai website,2023-07,90.67
+2210,chai website,2022-07,0.0
+2211,chai website,2022-08,6.0
+2212,chai website,2022-09,5.75
+2213,chai website,2022-10,1.8
+2214,chai website,2022-11,7.0
+2215,chai website,2022-12,9.75
+2216,chai website,2023-01,8.6
+2217,chai website,2023-02,7.0
+2218,chai website,2023-03,12.5
+2219,chai website,2023-04,41.0
+2220,chai website,2023-05,48.0
+2221,chai website,2023-06,68.0
+2222,chai website,2023-07,60.67
+2223,chai ai website,2022-07,0.0
+2224,chai ai website,2022-08,5.75
+2225,chai ai website,2022-09,0.0
+2226,chai ai website,2022-10,3.8
+2227,chai ai website,2022-11,5.0
+2228,chai ai website,2022-12,5.25
+2229,chai ai website,2023-01,1.6
+2230,chai ai website,2023-02,2.5
+2231,chai ai website,2023-03,2.25
+2232,chai ai website,2023-04,44.0
+2233,chai ai website,2023-05,43.0
+2234,chai ai website,2023-06,55.75
+2235,chai ai website,2023-07,82.33
+2236,chai ai bot,2022-07,0.0
+2237,chai ai bot,2022-08,5.5
+2238,chai ai bot,2022-09,9.75
+2239,chai ai bot,2022-10,0.0
+2240,chai ai bot,2022-11,13.75
+2241,chai ai bot,2022-12,6.5
+2242,chai ai bot,2023-01,14.4
+2243,chai ai bot,2023-02,24.25
+2244,chai ai bot,2023-03,27.0
+2245,chai ai bot,2023-04,62.8
+2246,chai ai bot,2023-05,61.5
+2247,chai ai bot,2023-06,46.75
+2248,chai ai bot,2023-07,57.67
+2249,ai bot,2022-07,8.0
+2250,ai bot,2022-08,8.0
+2251,ai bot,2022-09,6.25
+2252,ai bot,2022-10,5.6
+2253,ai bot,2022-11,5.75
+2254,ai bot,2022-12,24.0
+2255,ai bot,2023-01,26.8
+2256,ai bot,2023-02,26.0
+2257,ai bot,2023-03,23.0
+2258,ai bot,2023-04,54.4
+2259,ai bot,2023-05,30.25
+2260,ai bot,2023-06,24.25
+2261,ai bot,2023-07,26.33
+2262,chai bot,2022-07,21.0
+2263,chai bot,2022-08,24.5
+2264,chai bot,2022-09,16.75
+2265,chai bot,2022-10,22.0
+2266,chai bot,2022-11,16.25
+2267,chai bot,2022-12,19.25
+2268,chai bot,2023-01,21.8
+2269,chai bot,2023-02,27.5
+2270,chai bot,2023-03,46.5
+2271,chai bot,2023-04,70.8
+2272,chai bot,2023-05,64.75
+2273,chai bot,2023-06,57.75
+2274,chai bot,2023-07,67.0
+2275,character ai nsfw,2022-07,0.0
+2276,character ai nsfw,2022-08,0.0
+2277,character ai nsfw,2022-09,0.0
+2278,character ai nsfw,2022-10,0.8
+2279,character ai nsfw,2022-11,0.75
+2280,character ai nsfw,2022-12,3.0
+2281,character ai nsfw,2023-01,13.6
+2282,character ai nsfw,2023-02,17.5
+2283,character ai nsfw,2023-03,20.75
+2284,character ai nsfw,2023-04,73.8
+2285,character ai nsfw,2023-05,75.0
+2286,character ai nsfw,2023-06,73.25
+2287,character ai nsfw,2023-07,81.0
+2288,chai chat with ai,2022-07,45.0
+2289,chai chat with ai,2022-08,41.75
+2290,chai chat with ai,2022-09,4.0
+2291,chai chat with ai,2022-10,7.0
+2292,chai chat with ai,2022-11,5.25
+2293,chai chat with ai,2022-12,8.5
+2294,chai chat with ai,2023-01,23.6
+2295,chai chat with ai,2023-02,15.5
+2296,chai chat with ai,2023-03,41.75
+2297,chai chat with ai,2023-04,49.4
+2298,chai chat with ai,2023-05,28.25
+2299,chai chat with ai,2023-06,31.5
+2300,chai chat with ai,2023-07,23.67
+2301,chat with ai,2022-07,4.0
+2302,chat with ai,2022-08,4.75
+2303,chat with ai,2022-09,2.75
+2304,chat with ai,2022-10,3.2
+2305,chat with ai,2022-11,4.25
+2306,chat with ai,2022-12,24.5
+2307,chat with ai,2023-01,33.2
+2308,chat with ai,2023-02,48.25
+2309,chat with ai,2023-03,57.75
+2310,chat with ai,2023-04,80.0
+2311,chat with ai,2023-05,73.75
+2312,chat with ai,2023-06,54.75
+2313,chat with ai,2023-07,53.0
+2314,chatbot,2022-07,12.0
+2315,chatbot,2022-08,13.0
+2316,chatbot,2022-09,11.25
+2317,chatbot,2022-10,10.6
+2318,chatbot,2022-11,12.0
+2319,chatbot,2022-12,54.75
+2320,chatbot,2023-01,55.4
+2321,chatbot,2023-02,80.0
+2322,chatbot,2023-03,63.0
+2323,chatbot,2023-04,64.2
+2324,chatbot,2023-05,47.25
+2325,chatbot,2023-06,38.25
+2326,chatbot,2023-07,39.33
+2327,chai ai online,2022-07,0.0
+2328,chai ai online,2022-08,4.25
+2329,chai ai online,2022-09,10.0
+2330,chai ai online,2022-10,0.0
+2331,chai ai online,2022-11,0.0
+2332,chai ai online,2022-12,8.0
+2333,chai ai online,2023-01,14.8
+2334,chai ai online,2023-02,24.5
+2335,chai ai online,2023-03,8.5
+2336,chai ai online,2023-04,43.0
+2337,chai ai online,2023-05,52.75
+2338,chai ai online,2023-06,46.5
+2339,chai ai online,2023-07,47.67
+2340,chai reddit,2022-07,36.0
+2341,chai reddit,2022-08,39.75
+2342,chai reddit,2022-09,54.0
+2343,chai reddit,2022-10,49.6
+2344,chai reddit,2022-11,55.75
+2345,chai reddit,2022-12,51.0
+2346,chai reddit,2023-01,60.0
+2347,chai reddit,2023-02,71.75
+2348,chai reddit,2023-03,69.5
+2349,chai reddit,2023-04,72.2
+2350,chai reddit,2023-05,66.75
+2351,chai reddit,2023-06,75.0
+2352,chai reddit,2023-07,68.33
+2353,beta ai,2022-07,1.0
+2354,beta ai,2022-08,1.25
+2355,beta ai,2022-09,2.0
+2356,beta ai,2022-10,1.8
+2357,beta ai,2022-11,2.25
+2358,beta ai,2022-12,8.75
+2359,beta ai,2023-01,17.2
+2360,beta ai,2023-02,27.75
+2361,beta ai,2023-03,32.25
+2362,beta ai,2023-04,75.4
+2363,beta ai,2023-05,84.75
+2364,beta ai,2023-06,56.75
+2365,beta ai,2023-07,44.0
+2366,chai ai pc,2022-07,0.0
+2367,chai ai pc,2022-08,0.0
+2368,chai ai pc,2022-09,4.75
+2369,chai ai pc,2022-10,25.6
+2370,chai ai pc,2022-11,9.5
+2371,chai ai pc,2022-12,0.0
+2372,chai ai pc,2023-01,4.8
+2373,chai ai pc,2023-02,0.0
+2374,chai ai pc,2023-03,0.0
+2375,chai ai pc,2023-04,16.8
+2376,chai ai pc,2023-05,11.5
+2377,chai ai pc,2023-06,23.0
+2378,chai ai pc,2023-07,40.33
+2379,chai app website,2022-07,0.0
+2380,chai app website,2022-08,0.0
+2381,chai app website,2022-09,26.25
+2382,chai app website,2022-10,31.8
+2383,chai app website,2022-11,0.0
+2384,chai app website,2022-12,16.75
+2385,chai app website,2023-01,12.6
+2386,chai app website,2023-02,11.0
+2387,chai app website,2023-03,0.0
+2388,chai app website,2023-04,16.2
+2389,chai app website,2023-05,32.75
+2390,chai app website,2023-06,6.75
+2391,chai app website,2023-07,14.67
+2392,chai tea,2022-07,70.0
+2393,chai tea,2022-08,75.5
+2394,chai tea,2022-09,93.25
+2395,chai tea,2022-10,95.6
+2396,chai tea,2022-11,89.75
+2397,chai tea,2022-12,88.25
+2398,chai tea,2023-01,91.4
+2399,chai tea,2023-02,85.0
+2400,chai tea,2023-03,79.25
+2401,chai tea,2023-04,70.6
+2402,chai tea,2023-05,69.0
+2403,chai tea,2023-06,75.0
+2404,chai tea,2023-07,69.33
+2405,chai latte,2022-07,65.0
+2406,chai latte,2022-08,78.25
+2407,chai latte,2022-09,96.75
+2408,chai latte,2022-10,94.0
+2409,chai latte,2022-11,84.25
+2410,chai latte,2022-12,73.5
+2411,chai latte,2023-01,82.2
+2412,chai latte,2023-02,75.5
+2413,chai latte,2023-03,72.0
+2414,chai latte,2023-04,61.6
+2415,chai latte,2023-05,58.5
+2416,chai latte,2023-06,59.0
+2417,chai latte,2023-07,58.67
+2418,chai recipe,2022-07,52.0
+2419,chai recipe,2022-08,59.5
+2420,chai recipe,2022-09,74.25
+2421,chai recipe,2022-10,75.2
+2422,chai recipe,2022-11,85.0
+2423,chai recipe,2022-12,85.75
+2424,chai recipe,2023-01,68.4
+2425,chai recipe,2023-02,63.25
+2426,chai recipe,2023-03,64.25
+2427,chai recipe,2023-04,56.4
+2428,chai recipe,2023-05,54.5
+2429,chai recipe,2023-06,48.0
+2430,chai recipe,2023-07,53.0
+2431,iced chai latte,2022-07,60.0
+2432,iced chai latte,2022-08,73.75
+2433,iced chai latte,2022-09,81.25
+2434,iced chai latte,2022-10,63.8
+2435,iced chai latte,2022-11,37.75
+2436,iced chai latte,2022-12,33.5
+2437,iced chai latte,2023-01,41.6
+2438,iced chai latte,2023-02,45.5
+2439,iced chai latte,2023-03,41.0
+2440,iced chai latte,2023-04,44.8
+2441,iced chai latte,2023-05,46.25
+2442,iced chai latte,2023-06,51.25
+2443,iced chai latte,2023-07,49.0
+2444,does chai have caffeine,2022-07,66.0
+2445,does chai have caffeine,2022-08,72.5
+2446,does chai have caffeine,2022-09,96.25
+2447,does chai have caffeine,2022-10,81.2
+2448,does chai have caffeine,2022-11,67.25
+2449,does chai have caffeine,2022-12,63.5
+2450,does chai have caffeine,2023-01,72.0
+2451,does chai have caffeine,2023-02,69.25
+2452,does chai have caffeine,2023-03,68.25
+2453,does chai have caffeine,2023-04,69.2
+2454,does chai have caffeine,2023-05,55.25
+2455,does chai have caffeine,2023-06,59.0
+2456,does chai have caffeine,2023-07,54.0
+2457,how to make chai,2022-07,75.0
+2458,how to make chai,2022-08,75.75
+2459,how to make chai,2022-09,94.5
+2460,how to make chai,2022-10,90.6
+2461,how to make chai,2022-11,93.5
+2462,how to make chai,2022-12,77.0
+2463,how to make chai,2023-01,90.4
+2464,how to make chai,2023-02,76.75
+2465,how to make chai,2023-03,71.5
+2466,how to make chai,2023-04,61.6
+2467,how to make chai,2023-05,63.5
+2468,how to make chai,2023-06,63.25
+2469,how to make chai,2023-07,73.33
+2470,chai masala,2022-07,68.0
+2471,chai masala,2022-08,78.5
+2472,chai masala,2022-09,77.75
+2473,chai masala,2022-10,82.2
+2474,chai masala,2022-11,82.25
+2475,chai masala,2022-12,85.5
+2476,chai masala,2023-01,77.2
+2477,chai masala,2023-02,76.25
+2478,chai masala,2023-03,77.75
+2479,chai masala,2023-04,75.6
+2480,chai masala,2023-05,69.75
+2481,chai masala,2023-06,70.25
+2482,chai masala,2023-07,64.0
+2483,chai near me,2022-07,80.0
+2484,chai near me,2022-08,66.75
+2485,chai near me,2022-09,70.75
+2486,chai near me,2022-10,68.8
+2487,chai near me,2022-11,72.25
+2488,chai near me,2022-12,63.0
+2489,chai near me,2023-01,63.4
+2490,chai near me,2023-02,64.0
+2491,chai near me,2023-03,67.0
+2492,chai near me,2023-04,62.8
+2493,chai near me,2023-05,65.25
+2494,chai near me,2023-06,70.0
+2495,chai near me,2023-07,80.0
+2496,chai tea recipe,2022-07,62.0
+2497,chai tea recipe,2022-08,60.5
+2498,chai tea recipe,2022-09,75.25
+2499,chai tea recipe,2022-10,79.8
+2500,chai tea recipe,2022-11,86.0
+2501,chai tea recipe,2022-12,84.25
+2502,chai tea recipe,2023-01,72.2
+2503,chai tea recipe,2023-02,69.0
+2504,chai tea recipe,2023-03,71.5
+2505,chai tea recipe,2023-04,64.6
+2506,chai tea recipe,2023-05,55.25
+2507,chai tea recipe,2023-06,41.75
+2508,chai tea recipe,2023-07,57.33
+2509,chai hi fi rush,2022-07,0.0
+2510,chai hi fi rush,2022-08,0.0
+2511,chai hi fi rush,2022-09,2.0
+2512,chai hi fi rush,2022-10,0.0
+2513,chai hi fi rush,2022-11,1.5
+2514,chai hi fi rush,2022-12,0.0
+2515,chai hi fi rush,2023-01,28.0
+2516,chai hi fi rush,2023-02,54.75
+2517,chai hi fi rush,2023-03,30.0
+2518,chai hi fi rush,2023-04,11.2
+2519,chai hi fi rush,2023-05,7.25
+2520,chai hi fi rush,2023-06,6.75
+2521,chai hi fi rush,2023-07,11.67
+2522,chai.com,2022-07,17.0
+2523,chai.com,2022-08,4.0
+2524,chai.com,2022-09,4.5
+2525,chai.com,2022-10,3.4
+2526,chai.com,2022-11,5.5
+2527,chai.com,2022-12,0.0
+2528,chai.com,2023-01,10.4
+2529,chai.com,2023-02,15.25
+2530,chai.com,2023-03,0.0
+2531,chai.com,2023-04,30.4
+2532,chai.com,2023-05,13.0
+2533,chai.com,2023-06,39.0
+2534,chai.com,2023-07,69.33
+2535,chai eclair perfume,2022-07,0.0
+2536,chai eclair perfume,2022-08,25.0
+2537,chai eclair perfume,2022-09,10.75
+2538,chai eclair perfume,2022-10,17.4
+2539,chai eclair perfume,2022-11,16.75
+2540,chai eclair perfume,2022-12,9.25
+2541,chai eclair perfume,2023-01,52.4
+2542,chai eclair perfume,2023-02,40.0
+2543,chai eclair perfume,2023-03,34.25
+2544,chai eclair perfume,2023-04,16.8
+2545,chai eclair perfume,2023-05,21.0
+2546,chai eclair perfume,2023-06,40.0
+2547,chai eclair perfume,2023-07,0.0
+2548,coffee talk masala chai,2022-07,0.0
+2549,coffee talk masala chai,2022-08,37.75
+2550,coffee talk masala chai,2022-09,9.5
+2551,coffee talk masala chai,2022-10,9.4
+2552,coffee talk masala chai,2022-11,7.75
+2553,coffee talk masala chai,2022-12,10.0
+2554,coffee talk masala chai,2023-01,9.4
+2555,coffee talk masala chai,2023-02,18.75
+2556,coffee talk masala chai,2023-03,19.25
+2557,coffee talk masala chai,2023-04,23.2
+2558,coffee talk masala chai,2023-05,9.5
+2559,coffee talk masala chai,2023-06,14.0
+2560,coffee talk masala chai,2023-07,6.33
+2561,strawberry horchata chai dutch bros,2022-07,0.0
+2562,strawberry horchata chai dutch bros,2022-08,12.5
+2563,strawberry horchata chai dutch bros,2022-09,4.5
+2564,strawberry horchata chai dutch bros,2022-10,0.0
+2565,strawberry horchata chai dutch bros,2022-11,2.75
+2566,strawberry horchata chai dutch bros,2022-12,0.0
+2567,strawberry horchata chai dutch bros,2023-01,15.6
+2568,strawberry horchata chai dutch bros,2023-02,19.75
+2569,strawberry horchata chai dutch bros,2023-03,26.75
+2570,strawberry horchata chai dutch bros,2023-04,25.2
+2571,strawberry horchata chai dutch bros,2023-05,14.25
+2572,strawberry horchata chai dutch bros,2023-06,59.0
+2573,strawberry horchata chai dutch bros,2023-07,48.67
+2574,naan boti chai shai,2022-07,0.0
+2575,naan boti chai shai,2022-08,27.25
+2576,naan boti chai shai,2022-09,7.75
+2577,naan boti chai shai,2022-10,31.6
+2578,naan boti chai shai,2022-11,25.0
+2579,naan boti chai shai,2022-12,19.75
+2580,naan boti chai shai,2023-01,17.8
+2581,naan boti chai shai,2023-02,0.0
+2582,naan boti chai shai,2023-03,0.0
+2583,naan boti chai shai,2023-04,26.6
+2584,naan boti chai shai,2023-05,47.5
+2585,naan boti chai shai,2023-06,49.75
+2586,naan boti chai shai,2023-07,14.0
+2587,chai epice perfume,2022-07,5.0
+2588,chai epice perfume,2022-08,0.0
+2589,chai epice perfume,2022-09,0.0
+2590,chai epice perfume,2022-10,6.0
+2591,chai epice perfume,2022-11,0.0
+2592,chai epice perfume,2022-12,2.25
+2593,chai epice perfume,2023-01,1.0
+2594,chai epice perfume,2023-02,0.0
+2595,chai epice perfume,2023-03,0.0
+2596,chai epice perfume,2023-04,1.0
+2597,chai epice perfume,2023-05,1.5
+2598,chai epice perfume,2023-06,42.75
+2599,chai epice perfume,2023-07,23.33
+2600,nsfw ai writer,2022-07,0.0
+2601,nsfw ai writer,2022-08,2.75
+2602,nsfw ai writer,2022-09,0.0
+2603,nsfw ai writer,2022-10,4.0
+2604,nsfw ai writer,2022-11,13.25
+2605,nsfw ai writer,2022-12,10.0
+2606,nsfw ai writer,2023-01,14.4
+2607,nsfw ai writer,2023-02,28.0
+2608,nsfw ai writer,2023-03,40.25
+2609,nsfw ai writer,2023-04,37.0
+2610,nsfw ai writer,2023-05,68.0
+2611,nsfw ai writer,2023-06,36.25
+2612,nsfw ai writer,2023-07,12.33
+2613,mage space ai,2022-07,0.0
+2614,mage space ai,2022-08,4.25
+2615,mage space ai,2022-09,9.75
+2616,mage space ai,2022-10,4.0
+2617,mage space ai,2022-11,6.75
+2618,mage space ai,2022-12,15.0
+2619,mage space ai,2023-01,20.6
+2620,mage space ai,2023-02,17.0
+2621,mage space ai,2023-03,50.25
+2622,mage space ai,2023-04,19.4
+2623,mage space ai,2023-05,19.5
+2624,mage space ai,2023-06,20.0
+2625,mage space ai,2023-07,9.33
+2626,kobold ai,2022-07,4.0
+2627,kobold ai,2022-08,0.75
+2628,kobold ai,2022-09,1.75
+2629,kobold ai,2022-10,1.6
+2630,kobold ai,2022-11,4.0
+2631,kobold ai,2022-12,1.75
+2632,kobold ai,2023-01,4.6
+2633,kobold ai,2023-02,6.0
+2634,kobold ai,2023-03,10.5
+2635,kobold ai,2023-04,11.8
+2636,kobold ai,2023-05,12.0
+2637,kobold ai,2023-06,67.25
+2638,kobold ai,2023-07,47.0
+2639,chat,2022-07,37.0
+2640,chat,2022-08,35.25
+2641,chat,2022-09,34.25
+2642,chat,2022-10,33.4
+2643,chat,2022-11,34.75
+2644,chat,2022-12,55.75
+2645,chat,2023-01,65.8
+2646,chat,2023-02,76.5
+2647,chat,2023-03,88.75
+2648,chat,2023-04,95.6
+2649,chat,2023-05,87.0
+2650,chat,2023-06,73.25
+2651,chat,2023-07,66.67
+2652,chatbot ai gpt,2022-07,0.0
+2653,chatbot ai gpt,2022-08,1.0
+2654,chatbot ai gpt,2022-09,0.0
+2655,chatbot ai gpt,2022-10,0.4
+2656,chatbot ai gpt,2022-11,0.0
+2657,chatbot ai gpt,2022-12,76.0
+2658,chatbot ai gpt,2023-01,66.4
+2659,chatbot ai gpt,2023-02,63.75
+2660,chatbot ai gpt,2023-03,54.5
+2661,chatbot ai gpt,2023-04,53.0
+2662,chatbot ai gpt,2023-05,31.0
+2663,chatbot ai gpt,2023-06,27.0
+2664,chatbot ai gpt,2023-07,23.33
+2665,gpt ai chatbot,2022-07,0.0
+2666,gpt ai chatbot,2022-08,1.0
+2667,gpt ai chatbot,2022-09,0.0
+2668,gpt ai chatbot,2022-10,0.4
+2669,gpt ai chatbot,2022-11,0.0
+2670,gpt ai chatbot,2022-12,76.0
+2671,gpt ai chatbot,2023-01,66.4
+2672,gpt ai chatbot,2023-02,63.75
+2673,gpt ai chatbot,2023-03,54.5
+2674,gpt ai chatbot,2023-04,53.0
+2675,gpt ai chatbot,2023-05,31.0
+2676,gpt ai chatbot,2023-06,27.0
+2677,gpt ai chatbot,2023-07,23.33
+2678,ai chatbot chatgpt,2022-07,0.0
+2679,ai chatbot chatgpt,2022-08,0.5
+2680,ai chatbot chatgpt,2022-09,0.0
+2681,ai chatbot chatgpt,2022-10,1.8
+2682,ai chatbot chatgpt,2022-11,1.75
+2683,ai chatbot chatgpt,2022-12,64.75
+2684,ai chatbot chatgpt,2023-01,51.6
+2685,ai chatbot chatgpt,2023-02,76.5
+2686,ai chatbot chatgpt,2023-03,62.75
+2687,ai chatbot chatgpt,2023-04,67.2
+2688,ai chatbot chatgpt,2023-05,45.25
+2689,ai chatbot chatgpt,2023-06,31.0
+2690,ai chatbot chatgpt,2023-07,34.33
+2691,bing chatbot,2022-07,0.0
+2692,bing chatbot,2022-08,0.75
+2693,bing chatbot,2022-09,0.0
+2694,bing chatbot,2022-10,0.6
+2695,bing chatbot,2022-11,0.0
+2696,bing chatbot,2022-12,0.0
+2697,bing chatbot,2023-01,0.0
+2698,bing chatbot,2023-02,52.0
+2699,bing chatbot,2023-03,16.25
+2700,bing chatbot,2023-04,10.4
+2701,bing chatbot,2023-05,8.5
+2702,bing chatbot,2023-06,5.0
+2703,bing chatbot,2023-07,4.67
+2704,bing ai chatbot,2022-07,0.0
+2705,bing ai chatbot,2022-08,0.5
+2706,bing ai chatbot,2022-09,0.0
+2707,bing ai chatbot,2022-10,0.6
+2708,bing ai chatbot,2022-11,0.5
+2709,bing ai chatbot,2022-12,0.0
+2710,bing ai chatbot,2023-01,0.0
+2711,bing ai chatbot,2023-02,56.25
+2712,bing ai chatbot,2023-03,20.75
+2713,bing ai chatbot,2023-04,17.6
+2714,bing ai chatbot,2023-05,13.5
+2715,bing ai chatbot,2023-06,8.75
+2716,bing ai chatbot,2023-07,7.0
+2717,google chatbot,2022-07,5.0
+2718,google chatbot,2022-08,3.5
+2719,google chatbot,2022-09,3.25
+2720,google chatbot,2022-10,2.4
+2721,google chatbot,2022-11,2.25
+2722,google chatbot,2022-12,13.0
+2723,google chatbot,2023-01,16.4
+2724,google chatbot,2023-02,51.5
+2725,google chatbot,2023-03,32.75
+2726,google chatbot,2023-04,29.6
+2727,google chatbot,2023-05,25.5
+2728,google chatbot,2023-06,16.25
+2729,google chatbot,2023-07,15.67
+2730,gpt chat,2022-07,0.0
+2731,gpt chat,2022-08,0.0
+2732,gpt chat,2022-09,0.0
+2733,gpt chat,2022-10,0.0
+2734,gpt chat,2022-11,0.5
+2735,gpt chat,2022-12,28.0
+2736,gpt chat,2023-01,45.8
+2737,gpt chat,2023-02,61.75
+2738,gpt chat,2023-03,82.75
+2739,gpt chat,2023-04,92.8
+2740,gpt chat,2023-05,75.25
+2741,gpt chat,2023-06,51.25
+2742,gpt chat,2023-07,42.0
+2743,chat gpt ai chatbot,2022-07,0.0
+2744,chat gpt ai chatbot,2022-08,0.0
+2745,chat gpt ai chatbot,2022-09,1.25
+2746,chat gpt ai chatbot,2022-10,0.0
+2747,chat gpt ai chatbot,2022-11,0.0
+2748,chat gpt ai chatbot,2022-12,46.5
+2749,chat gpt ai chatbot,2023-01,49.0
+2750,chat gpt ai chatbot,2023-02,63.25
+2751,chat gpt ai chatbot,2023-03,54.5
+2752,chat gpt ai chatbot,2023-04,51.8
+2753,chat gpt ai chatbot,2023-05,27.25
+2754,chat gpt ai chatbot,2023-06,28.5
+2755,chat gpt ai chatbot,2023-07,33.0
+2756,chatbot ai free,2022-07,8.0
+2757,chatbot ai free,2022-08,1.25
+2758,chatbot ai free,2022-09,4.25
+2759,chatbot ai free,2022-10,6.2
+2760,chatbot ai free,2022-11,8.25
+2761,chatbot ai free,2022-12,17.0
+2762,chatbot ai free,2023-01,35.8
+2763,chatbot ai free,2023-02,48.75
+2764,chatbot ai free,2023-03,50.0
+2765,chatbot ai free,2023-04,73.8
+2766,chatbot ai free,2023-05,70.0
+2767,chatbot ai free,2023-06,62.5
+2768,chatbot ai free,2023-07,76.0
+2769,chatbot free,2022-07,10.0
+2770,chatbot free,2022-08,7.0
+2771,chatbot free,2022-09,8.25
+2772,chatbot free,2022-10,7.0
+2773,chatbot free,2022-11,7.75
+2774,chatbot free,2022-12,30.5
+2775,chatbot free,2023-01,48.6
+2776,chatbot free,2023-02,65.0
+2777,chatbot free,2023-03,69.0
+2778,chatbot free,2023-04,79.2
+2779,chatbot free,2023-05,67.0
+2780,chatbot free,2023-06,59.5
+2781,chatbot free,2023-07,73.0
+2782,ai chatbot free,2022-07,8.0
+2783,ai chatbot free,2022-08,1.25
+2784,ai chatbot free,2022-09,4.25
+2785,ai chatbot free,2022-10,6.2
+2786,ai chatbot free,2022-11,8.25
+2787,ai chatbot free,2022-12,17.0
+2788,ai chatbot free,2023-01,35.8
+2789,ai chatbot free,2023-02,48.75
+2790,ai chatbot free,2023-03,50.0
+2791,ai chatbot free,2023-04,73.8
+2792,ai chatbot free,2023-05,70.0
+2793,ai chatbot free,2023-06,62.5
+2794,ai chatbot free,2023-07,76.0
+2795,microsoft bing,2022-07,24.0
+2796,microsoft bing,2022-08,25.25
+2797,microsoft bing,2022-09,23.5
+2798,microsoft bing,2022-10,26.2
+2799,microsoft bing,2022-11,24.25
+2800,microsoft bing,2022-12,27.0
+2801,microsoft bing,2023-01,31.8
+2802,microsoft bing,2023-02,79.75
+2803,microsoft bing,2023-03,58.5
+2804,microsoft bing,2023-04,49.8
+2805,microsoft bing,2023-05,42.75
+2806,microsoft bing,2023-06,34.75
+2807,microsoft bing,2023-07,32.33
+2808,bing chatgpt,2022-07,0.0
+2809,bing chatgpt,2022-08,0.0
+2810,bing chatgpt,2022-09,0.25
+2811,bing chatgpt,2022-10,0.2
+2812,bing chatgpt,2022-11,0.25
+2813,bing chatgpt,2022-12,0.0
+2814,bing chatgpt,2023-01,3.4
+2815,bing chatgpt,2023-02,66.25
+2816,bing chatgpt,2023-03,39.75
+2817,bing chatgpt,2023-04,29.0
+2818,bing chatgpt,2023-05,21.75
+2819,bing chatgpt,2023-06,16.0
+2820,bing chatgpt,2023-07,16.33
+2821,mario ai chatbot,2022-07,0.0
+2822,mario ai chatbot,2022-08,0.0
+2823,mario ai chatbot,2022-09,3.0
+2824,mario ai chatbot,2022-10,0.0
+2825,mario ai chatbot,2022-11,0.0
+2826,mario ai chatbot,2022-12,5.25
+2827,mario ai chatbot,2023-01,27.6
+2828,mario ai chatbot,2023-02,30.75
+2829,mario ai chatbot,2023-03,5.25
+2830,mario ai chatbot,2023-04,4.8
+2831,mario ai chatbot,2023-05,10.5
+2832,mario ai chatbot,2023-06,6.75
+2833,mario ai chatbot,2023-07,4.33
+2834,mario ai,2022-07,3.0
+2835,mario ai,2022-08,5.25
+2836,mario ai,2022-09,5.5
+2837,mario ai,2022-10,8.0
+2838,mario ai,2022-11,5.5
+2839,mario ai,2022-12,8.5
+2840,mario ai,2023-01,30.8
+2841,mario ai,2023-02,37.75
+2842,mario ai,2023-03,26.0
+2843,mario ai,2023-04,43.4
+2844,mario ai,2023-05,26.75
+2845,mario ai,2023-06,19.25
+2846,mario ai,2023-07,16.67
+2847,image generator ai,2022-07,37.0
+2848,image generator ai,2022-08,45.75
+2849,image generator ai,2022-09,27.5
+2850,image generator ai,2022-10,26.2
+2851,image generator ai,2022-11,26.75
+2852,image generator ai,2022-12,54.0
+2853,image generator ai,2023-01,35.6
+2854,image generator ai,2023-02,38.25
+2855,image generator ai,2023-03,48.0
+2856,image generator ai,2023-04,67.8
+2857,image generator ai,2023-05,69.0
+2858,image generator ai,2023-06,64.5
+2859,image generator ai,2023-07,69.33
+2860,ai art generator online,2022-07,31.0
+2861,ai art generator online,2022-08,20.5
+2862,ai art generator online,2022-09,41.0
+2863,ai art generator online,2022-10,35.6
+2864,ai art generator online,2022-11,45.25
+2865,ai art generator online,2022-12,77.0
+2866,ai art generator online,2023-01,68.6
+2867,ai art generator online,2023-02,52.5
+2868,ai art generator online,2023-03,61.0
+2869,ai art generator online,2023-04,70.0
+2870,ai art generator online,2023-05,67.75
+2871,ai art generator online,2023-06,64.25
+2872,ai art generator online,2023-07,64.67
+2873,anime art ai generator,2022-07,4.0
+2874,anime art ai generator,2022-08,0.0
+2875,anime art ai generator,2022-09,4.0
+2876,anime art ai generator,2022-10,14.8
+2877,anime art ai generator,2022-11,20.0
+2878,anime art ai generator,2022-12,52.25
+2879,anime art ai generator,2023-01,19.4
+2880,anime art ai generator,2023-02,22.5
+2881,anime art ai generator,2023-03,16.0
+2882,anime art ai generator,2023-04,19.8
+2883,anime art ai generator,2023-05,20.5
+2884,anime art ai generator,2023-06,20.75
+2885,anime art ai generator,2023-07,22.33
+2886,dalle ai,2022-07,62.0
+2887,dalle ai,2022-08,64.25
+2888,dalle ai,2022-09,49.75
+2889,dalle ai,2022-10,51.4
+2890,dalle ai,2022-11,42.5
+2891,dalle ai,2022-12,80.75
+2892,dalle ai,2023-01,77.4
+2893,dalle ai,2023-02,71.25
+2894,dalle ai,2023-03,81.75
+2895,dalle ai,2023-04,80.8
+2896,dalle ai,2023-05,75.75
+2897,dalle ai,2023-06,53.25
+2898,dalle ai,2023-07,43.0
+2899,ai art generator from photo,2022-07,0.0
+2900,ai art generator from photo,2022-08,1.0
+2901,ai art generator from photo,2022-09,6.0
+2902,ai art generator from photo,2022-10,8.6
+2903,ai art generator from photo,2022-11,36.25
+2904,ai art generator from photo,2022-12,52.25
+2905,ai art generator from photo,2023-01,23.4
+2906,ai art generator from photo,2023-02,16.0
+2907,ai art generator from photo,2023-03,23.5
+2908,ai art generator from photo,2023-04,26.0
+2909,ai art generator from photo,2023-05,23.5
+2910,ai art generator from photo,2023-06,23.75
+2911,ai art generator from photo,2023-07,20.0
+2912,best ai art generator reddit,2022-07,0.0
+2913,best ai art generator reddit,2022-08,0.0
+2914,best ai art generator reddit,2022-09,16.5
+2915,best ai art generator reddit,2022-10,40.6
+2916,best ai art generator reddit,2022-11,20.75
+2917,best ai art generator reddit,2022-12,39.25
+2918,best ai art generator reddit,2023-01,10.4
+2919,best ai art generator reddit,2023-02,30.75
+2920,best ai art generator reddit,2023-03,43.25
+2921,best ai art generator reddit,2023-04,43.2
+2922,best ai art generator reddit,2023-05,65.25
+2923,best ai art generator reddit,2023-06,34.0
+2924,best ai art generator reddit,2023-07,40.33
+2925,ai drawing,2022-07,31.0
+2926,ai drawing,2022-08,43.0
+2927,ai drawing,2022-09,36.25
+2928,ai drawing,2022-10,41.2
+2929,ai drawing,2022-11,40.0
+2930,ai drawing,2022-12,65.75
+2931,ai drawing,2023-01,46.0
+2932,ai drawing,2023-02,51.5
+2933,ai drawing,2023-03,54.5
+2934,ai drawing,2023-04,62.4
+2935,ai drawing,2023-05,67.5
+2936,ai drawing,2023-06,55.0
+2937,ai drawing,2023-07,47.33
+2938,midjourney ai art generator,2022-07,79.0
+2939,midjourney ai art generator,2022-08,56.5
+2940,midjourney ai art generator,2022-09,40.5
+2941,midjourney ai art generator,2022-10,25.6
+2942,midjourney ai art generator,2022-11,19.75
+2943,midjourney ai art generator,2022-12,40.0
+2944,midjourney ai art generator,2023-01,53.4
+2945,midjourney ai art generator,2023-02,39.75
+2946,midjourney ai art generator,2023-03,45.25
+2947,midjourney ai art generator,2023-04,52.2
+2948,midjourney ai art generator,2023-05,41.0
+2949,midjourney ai art generator,2023-06,40.25
+2950,midjourney ai art generator,2023-07,41.0
+2951,character ai nsfw filter bypass words,2022-07,0.0
+2952,character ai nsfw filter bypass words,2022-08,0.0
+2953,character ai nsfw filter bypass words,2022-09,22.0
+2954,character ai nsfw filter bypass words,2022-10,8.2
+2955,character ai nsfw filter bypass words,2022-11,0.0
+2956,character ai nsfw filter bypass words,2022-12,16.75
+2957,character ai nsfw filter bypass words,2023-01,11.2
+2958,character ai nsfw filter bypass words,2023-02,31.25
+2959,character ai nsfw filter bypass words,2023-03,0.0
+2960,character ai nsfw filter bypass words,2023-04,0.0
+2961,character ai nsfw filter bypass words,2023-05,38.75
+2962,character ai nsfw filter bypass words,2023-06,22.75
+2963,character ai nsfw filter bypass words,2023-07,33.33
+2964,ai generated,2022-07,27.0
+2965,ai generated,2022-08,34.5
+2966,ai generated,2022-09,34.0
+2967,ai generated,2022-10,34.4
+2968,ai generated,2022-11,35.5
+2969,ai generated,2022-12,56.5
+2970,ai generated,2023-01,46.0
+2971,ai generated,2023-02,51.75
+2972,ai generated,2023-03,54.75
+2973,ai generated,2023-04,76.6
+2974,ai generated,2023-05,70.75
+2975,ai generated,2023-06,62.25
+2976,ai generated,2023-07,81.33
+2977,anime ai art,2022-07,0.0
+2978,anime ai art,2022-08,1.0
+2979,anime ai art,2022-09,4.25
+2980,anime ai art,2022-10,13.2
+2981,anime ai art,2022-11,18.25
+2982,anime ai art,2022-12,53.5
+2983,anime ai art,2023-01,18.2
+2984,anime ai art,2023-02,20.25
+2985,anime ai art,2023-03,16.75
+2986,anime ai art,2023-04,19.4
+2987,anime ai art,2023-05,20.75
+2988,anime ai art,2023-06,24.0
+2989,anime ai art,2023-07,26.0
+2990,dall e ai art,2022-07,59.0
+2991,dall e ai art,2022-08,68.5
+2992,dall e ai art,2022-09,77.0
+2993,dall e ai art,2022-10,64.0
+2994,dall e ai art,2022-11,47.5
+2995,dall e ai art,2022-12,73.25
+2996,dall e ai art,2023-01,63.0
+2997,dall e ai art,2023-02,59.0
+2998,dall e ai art,2023-03,49.25
+2999,dall e ai art,2023-04,48.4
+3000,dall e ai art,2023-05,38.5
+3001,dall e ai art,2023-06,25.5
+3002,dall e ai art,2023-07,22.33
+3003,lensa ai art app,2022-07,0.0
+3004,lensa ai art app,2022-08,0.5
+3005,lensa ai art app,2022-09,0.0
+3006,lensa ai art app,2022-10,0.4
+3007,lensa ai art app,2022-11,3.0
+3008,lensa ai art app,2022-12,30.5
+3009,lensa ai art app,2023-01,1.2
+3010,lensa ai art app,2023-02,0.25
+3011,lensa ai art app,2023-03,0.5
+3012,lensa ai art app,2023-04,2.4
+3013,lensa ai art app,2023-05,0.0
+3014,lensa ai art app,2023-06,0.5
+3015,lensa ai art app,2023-07,0.0
+3016,dream studio,2022-07,23.0
+3017,dream studio,2022-08,22.25
+3018,dream studio,2022-09,70.25
+3019,dream studio,2022-10,31.0
+3020,dream studio,2022-11,20.25
+3021,dream studio,2022-12,22.75
+3022,dream studio,2023-01,23.4
+3023,dream studio,2023-02,20.5
+3024,dream studio,2023-03,21.0
+3025,dream studio,2023-04,20.2
+3026,dream studio,2023-05,18.75
+3027,dream studio,2023-06,15.25
+3028,dream studio,2023-07,17.67
+3029,janitor ai api,2022-07,0.0
+3030,janitor ai api,2022-08,0.0
+3031,janitor ai api,2022-09,0.0
+3032,janitor ai api,2022-10,0.0
+3033,janitor ai api,2022-11,0.0
+3034,janitor ai api,2022-12,0.75
+3035,janitor ai api,2023-01,0.8
+3036,janitor ai api,2023-02,0.0
+3037,janitor ai api,2023-03,0.75
+3038,janitor ai api,2023-04,0.0
+3039,janitor ai api,2023-05,1.25
+3040,janitor ai api,2023-06,52.5
+3041,janitor ai api,2023-07,29.33
+3042,openai,2022-07,5.0
+3043,openai,2022-08,5.0
+3044,openai,2022-09,5.25
+3045,openai,2022-10,6.8
+3046,openai,2022-11,10.25
+3047,openai,2022-12,66.25
+3048,openai,2023-01,68.8
+3049,openai,2023-02,75.25
+3050,openai,2023-03,85.25
+3051,openai,2023-04,82.8
+3052,openai,2023-05,65.75
+3053,openai,2023-06,49.0
+3054,openai,2023-07,45.67
+3055,kobold,2022-07,54.0
+3056,kobold,2022-08,59.75
+3057,kobold,2022-09,46.5
+3058,kobold,2022-10,42.0
+3059,kobold,2022-11,41.0
+3060,kobold,2022-12,46.25
+3061,kobold,2023-01,65.0
+3062,kobold,2023-02,54.5
+3063,kobold,2023-03,50.0
+3064,kobold,2023-04,51.8
+3065,kobold,2023-05,54.75
+3066,kobold,2023-06,69.75
+3067,kobold,2023-07,63.67
+3068,venus ai,2022-07,2.0
+3069,venus ai,2022-08,0.5
+3070,venus ai,2022-09,0.5
+3071,venus ai,2022-10,0.2
+3072,venus ai,2022-11,1.0
+3073,venus ai,2022-12,0.5
+3074,venus ai,2023-01,0.6
+3075,venus ai,2023-02,1.0
+3076,venus ai,2023-03,1.0
+3077,venus ai,2023-04,1.6
+3078,venus ai,2023-05,8.0
+3079,venus ai,2023-06,65.0
+3080,venus ai,2023-07,36.67
+3081,janitor ai login,2022-07,0.0
+3082,janitor ai login,2022-08,0.0
+3083,janitor ai login,2022-09,1.0
+3084,janitor ai login,2022-10,0.0
+3085,janitor ai login,2022-11,0.0
+3086,janitor ai login,2022-12,0.0
+3087,janitor ai login,2023-01,1.0
+3088,janitor ai login,2023-02,0.0
+3089,janitor ai login,2023-03,0.0
+3090,janitor ai login,2023-04,0.6
+3091,janitor ai login,2023-05,0.75
+3092,janitor ai login,2023-06,33.5
+3093,janitor ai login,2023-07,6.67
+3094,ai reverse proxy,2022-07,5.0
+3095,ai reverse proxy,2022-08,0.0
+3096,ai reverse proxy,2022-09,2.25
+3097,ai reverse proxy,2022-10,0.8
+3098,ai reverse proxy,2022-11,0.0
+3099,ai reverse proxy,2022-12,0.75
+3100,ai reverse proxy,2023-01,0.8
+3101,ai reverse proxy,2023-02,2.5
+3102,ai reverse proxy,2023-03,0.0
+3103,ai reverse proxy,2023-04,2.6
+3104,ai reverse proxy,2023-05,2.25
+3105,ai reverse proxy,2023-06,58.25
+3106,ai reverse proxy,2023-07,43.67
+3107,api key,2022-07,50.0
+3108,api key,2022-08,46.75
+3109,api key,2022-09,41.0
+3110,api key,2022-10,42.4
+3111,api key,2022-11,42.5
+3112,api key,2022-12,40.5
+3113,api key,2023-01,51.4
+3114,api key,2023-02,57.5
+3115,api key,2023-03,68.25
+3116,api key,2023-04,84.6
+3117,api key,2023-05,69.0
+3118,api key,2023-06,75.5
+3119,api key,2023-07,72.67
+3120,how to use janitor ai,2022-07,0.0
+3121,how to use janitor ai,2022-08,0.0
+3122,how to use janitor ai,2022-09,2.75
+3123,how to use janitor ai,2022-10,0.0
+3124,how to use janitor ai,2022-11,1.25
+3125,how to use janitor ai,2022-12,1.5
+3126,how to use janitor ai,2023-01,0.0
+3127,how to use janitor ai,2023-02,0.0
+3128,how to use janitor ai,2023-03,1.25
+3129,how to use janitor ai,2023-04,0.0
+3130,how to use janitor ai,2023-05,2.0
+3131,how to use janitor ai,2023-06,50.5
+3132,how to use janitor ai,2023-07,26.67
+3133,openai api,2022-07,4.0
+3134,openai api,2022-08,2.5
+3135,openai api,2022-09,3.5
+3136,openai api,2022-10,3.8
+3137,openai api,2022-11,5.25
+3138,openai api,2022-12,21.0
+3139,openai api,2023-01,27.6
+3140,openai api,2023-02,42.25
+3141,openai api,2023-03,83.75
+3142,openai api,2023-04,93.2
+3143,openai api,2023-05,74.5
+3144,openai api,2023-06,73.0
+3145,openai api,2023-07,64.33
+3146,kobold ai api,2022-07,9.0
+3147,kobold ai api,2022-08,1.25
+3148,kobold ai api,2022-09,2.25
+3149,kobold ai api,2022-10,1.2
+3150,kobold ai api,2022-11,2.0
+3151,kobold ai api,2022-12,2.25
+3152,kobold ai api,2023-01,3.2
+3153,kobold ai api,2023-02,1.25
+3154,kobold ai api,2023-03,0.0
+3155,kobold ai api,2023-04,3.8
+3156,kobold ai api,2023-05,5.25
+3157,kobold ai api,2023-06,57.75
+3158,kobold ai api,2023-07,42.0
+3159,beta,2022-07,29.0
+3160,beta,2022-08,28.5
+3161,beta,2022-09,61.0
+3162,beta,2022-10,28.4
+3163,beta,2022-11,24.25
+3164,beta,2022-12,22.75
+3165,beta,2023-01,24.0
+3166,beta,2023-02,26.25
+3167,beta,2023-03,42.0
+3168,beta,2023-04,30.4
+3169,beta,2023-05,29.5
+3170,beta,2023-06,33.5
+3171,beta,2023-07,28.33
+3172,character generator,2022-07,78.0
+3173,character generator,2022-08,74.0
+3174,character generator,2022-09,77.25
+3175,character generator,2022-10,75.4
+3176,character generator,2022-11,78.5
+3177,character generator,2022-12,85.75
+3178,character generator,2023-01,82.4
+3179,character generator,2023-02,89.25
+3180,character generator,2023-03,88.25
+3181,character generator,2023-04,93.2
+3182,character generator,2023-05,97.0
+3183,character generator,2023-06,93.25
+3184,character generator,2023-07,84.33
+3185,character ai filter,2022-07,0.0
+3186,character ai filter,2022-08,0.0
+3187,character ai filter,2022-09,0.0
+3188,character ai filter,2022-10,0.4
+3189,character ai filter,2022-11,1.5
+3190,character ai filter,2022-12,1.25
+3191,character ai filter,2023-01,4.0
+3192,character ai filter,2023-02,9.25
+3193,character ai filter,2023-03,8.5
+3194,character ai filter,2023-04,52.4
+3195,character ai filter,2023-05,55.25
+3196,character ai filter,2023-06,67.75
+3197,character ai filter,2023-07,87.33
+3198,characters,2022-07,86.0
+3199,characters,2022-08,80.5
+3200,characters,2022-09,82.5
+3201,characters,2022-10,95.8
+3202,characters,2022-11,76.5
+3203,characters,2022-12,77.75
+3204,characters,2023-01,78.4
+3205,characters,2023-02,79.5
+3206,characters,2023-03,79.5
+3207,characters,2023-04,79.6
+3208,characters,2023-05,76.75
+3209,characters,2023-06,77.0
+3210,characters,2023-07,77.0
+3211,character ai down,2022-07,0.0
+3212,character ai down,2022-08,0.5
+3213,character ai down,2022-09,0.5
+3214,character ai down,2022-10,1.2
+3215,character ai down,2022-11,0.75
+3216,character ai down,2022-12,2.0
+3217,character ai down,2023-01,3.8
+3218,character ai down,2023-02,0.75
+3219,character ai down,2023-03,5.25
+3220,character ai down,2023-04,15.6
+3221,character ai down,2023-05,21.25
+3222,character ai down,2023-06,14.0
+3223,character ai down,2023-07,45.67
+3224,character ai login,2022-07,0.0
+3225,character ai login,2022-08,1.25
+3226,character ai login,2022-09,3.75
+3227,character ai login,2022-10,1.6
+3228,character ai login,2022-11,1.25
+3229,character ai login,2022-12,5.75
+3230,character ai login,2023-01,3.4
+3231,character ai login,2023-02,16.25
+3232,character ai login,2023-03,6.75
+3233,character ai login,2023-04,49.8
+3234,character ai login,2023-05,81.25
+3235,character ai login,2023-06,66.75
+3236,character ai login,2023-07,61.33
+3237,character ai chats,2022-07,0.0
+3238,character ai chats,2022-08,3.75
+3239,character ai chats,2022-09,0.0
+3240,character ai chats,2022-10,0.0
+3241,character ai chats,2022-11,6.25
+3242,character ai chats,2022-12,4.0
+3243,character ai chats,2023-01,6.4
+3244,character ai chats,2023-02,13.75
+3245,character ai chats,2023-03,15.75
+3246,character ai chats,2023-04,57.2
+3247,character ai chats,2023-05,60.75
+3248,character ai chats,2023-06,79.75
+3249,character ai chats,2023-07,80.0
+3250,character ai petition,2022-07,0.0
+3251,character ai petition,2022-08,9.5
+3252,character ai petition,2022-09,2.75
+3253,character ai petition,2022-10,4.2
+3254,character ai petition,2022-11,0.0
+3255,character ai petition,2022-12,0.0
+3256,character ai petition,2023-01,3.8
+3257,character ai petition,2023-02,3.25
+3258,character ai petition,2023-03,41.0
+3259,character ai petition,2023-04,75.0
+3260,character ai petition,2023-05,74.0
+3261,character ai petition,2023-06,48.5
+3262,character ai petition,2023-07,41.33
+3263,silly tavern ai,2022-07,0.0
+3264,silly tavern ai,2022-08,0.0
+3265,silly tavern ai,2022-09,1.25
+3266,silly tavern ai,2022-10,1.2
+3267,silly tavern ai,2022-11,4.25
+3268,silly tavern ai,2022-12,0.0
+3269,silly tavern ai,2023-01,0.0
+3270,silly tavern ai,2023-02,4.25
+3271,silly tavern ai,2023-03,0.0
+3272,silly tavern ai,2023-04,11.0
+3273,silly tavern ai,2023-05,32.75
+3274,silly tavern ai,2023-06,63.0
+3275,silly tavern ai,2023-07,64.33
+3276,tavernai,2022-07,22.0
+3277,tavernai,2022-08,2.5
+3278,tavernai,2022-09,0.0
+3279,tavernai,2022-10,1.2
+3280,tavernai,2022-11,6.75
+3281,tavernai,2022-12,3.75
+3282,tavernai,2023-01,15.6
+3283,tavernai,2023-02,24.0
+3284,tavernai,2023-03,34.0
+3285,tavernai,2023-04,60.8
+3286,tavernai,2023-05,78.0
+3287,tavernai,2023-06,39.25
+3288,tavernai,2023-07,43.0
+3289,the pygmalion effect,2022-07,0.0
+3290,the pygmalion effect,2022-08,20.0
+3291,the pygmalion effect,2022-09,27.25
+3292,the pygmalion effect,2022-10,53.0
+3293,the pygmalion effect,2022-11,29.5
+3294,the pygmalion effect,2022-12,40.5
+3295,the pygmalion effect,2023-01,25.6
+3296,the pygmalion effect,2023-02,43.75
+3297,the pygmalion effect,2023-03,33.5
+3298,the pygmalion effect,2023-04,37.8
+3299,the pygmalion effect,2023-05,27.5
+3300,the pygmalion effect,2023-06,7.0
+3301,the pygmalion effect,2023-07,5.67
+3302,pygmalion movie,2022-07,0.0
+3303,pygmalion movie,2022-08,21.75
+3304,pygmalion movie,2022-09,5.5
+3305,pygmalion movie,2022-10,6.4
+3306,pygmalion movie,2022-11,8.0
+3307,pygmalion movie,2022-12,11.0
+3308,pygmalion movie,2023-01,24.6
+3309,pygmalion movie,2023-02,10.75
+3310,pygmalion movie,2023-03,12.25
+3311,pygmalion movie,2023-04,6.6
+3312,pygmalion movie,2023-05,8.25
+3313,pygmalion movie,2023-06,10.5
+3314,pygmalion movie,2023-07,6.33
+3315,pygmalion play,2022-07,18.0
+3316,pygmalion play,2022-08,24.0
+3317,pygmalion play,2022-09,21.75
+3318,pygmalion play,2022-10,42.6
+3319,pygmalion play,2022-11,39.5
+3320,pygmalion play,2022-12,46.0
+3321,pygmalion play,2023-01,44.2
+3322,pygmalion play,2023-02,63.75
+3323,pygmalion play,2023-03,33.25
+3324,pygmalion play,2023-04,20.2
+3325,pygmalion play,2023-05,46.0
+3326,pygmalion play,2023-06,14.5
+3327,pygmalion play,2023-07,27.0
+3328,pygmalion myth,2022-07,0.0
+3329,pygmalion myth,2022-08,16.0
+3330,pygmalion myth,2022-09,6.0
+3331,pygmalion myth,2022-10,33.0
+3332,pygmalion myth,2022-11,26.0
+3333,pygmalion myth,2022-12,37.25
+3334,pygmalion myth,2023-01,38.0
+3335,pygmalion myth,2023-02,34.5
+3336,pygmalion myth,2023-03,53.75
+3337,pygmalion myth,2023-04,16.2
+3338,pygmalion myth,2023-05,20.5
+3339,pygmalion myth,2023-06,20.75
+3340,pygmalion myth,2023-07,15.67
+3341,pygmalion ai reddit,2022-07,52.0
+3342,pygmalion ai reddit,2022-08,6.0
+3343,pygmalion ai reddit,2022-09,5.75
+3344,pygmalion ai reddit,2022-10,0.0
+3345,pygmalion ai reddit,2022-11,0.0
+3346,pygmalion ai reddit,2022-12,6.25
+3347,pygmalion ai reddit,2023-01,34.0
+3348,pygmalion ai reddit,2023-02,45.5
+3349,pygmalion ai reddit,2023-03,33.5
+3350,pygmalion ai reddit,2023-04,31.2
+3351,pygmalion ai reddit,2023-05,55.75
+3352,pygmalion ai reddit,2023-06,31.5
+3353,pygmalion ai reddit,2023-07,8.67
+3354,pygmalion pdf,2022-07,0.0
+3355,pygmalion pdf,2022-08,11.5
+3356,pygmalion pdf,2022-09,5.5
+3357,pygmalion pdf,2022-10,7.8
+3358,pygmalion pdf,2022-11,22.75
+3359,pygmalion pdf,2022-12,20.0
+3360,pygmalion pdf,2023-01,14.2
+3361,pygmalion pdf,2023-02,30.0
+3362,pygmalion pdf,2023-03,13.75
+3363,pygmalion pdf,2023-04,47.4
+3364,pygmalion pdf,2023-05,51.25
+3365,pygmalion pdf,2023-06,9.0
+3366,pygmalion pdf,2023-07,7.67
+3367,pygmalion ai chatbot,2022-07,0.0
+3368,pygmalion ai chatbot,2022-08,0.0
+3369,pygmalion ai chatbot,2022-09,0.0
+3370,pygmalion ai chatbot,2022-10,10.6
+3371,pygmalion ai chatbot,2022-11,0.0
+3372,pygmalion ai chatbot,2022-12,6.75
+3373,pygmalion ai chatbot,2023-01,29.8
+3374,pygmalion ai chatbot,2023-02,9.0
+3375,pygmalion ai chatbot,2023-03,38.5
+3376,pygmalion ai chatbot,2023-04,35.8
+3377,pygmalion ai chatbot,2023-05,35.5
+3378,pygmalion ai chatbot,2023-06,7.5
+3379,pygmalion ai chatbot,2023-07,38.33
+3380,pygmalionai,2022-07,0.0
+3381,pygmalionai,2022-08,10.0
+3382,pygmalionai,2022-09,0.0
+3383,pygmalionai,2022-10,6.6
+3384,pygmalionai,2022-11,0.0
+3385,pygmalionai,2022-12,0.0
+3386,pygmalionai,2023-01,17.6
+3387,pygmalionai,2023-02,18.25
+3388,pygmalionai,2023-03,12.0
+3389,pygmalionai,2023-04,42.4
+3390,pygmalionai,2023-05,50.5
+3391,pygmalionai,2023-06,9.5
+3392,pygmalionai,2023-07,32.33
+3393,beta character ai nsfw bot,2022-07,62.0
+3394,beta character ai nsfw bot,2022-08,17.5
+3395,beta character ai nsfw bot,2022-09,7.5
+3396,beta character ai nsfw bot,2022-10,0.0
+3397,beta character ai nsfw bot,2022-11,13.25
+3398,beta character ai nsfw bot,2022-12,0.0
+3399,beta character ai nsfw bot,2023-01,0.0
+3400,beta character ai nsfw bot,2023-02,0.0
+3401,beta character ai nsfw bot,2023-03,0.0
+3402,beta character ai nsfw bot,2023-04,22.6
+3403,beta character ai nsfw bot,2023-05,25.0
+3404,beta character ai nsfw bot,2023-06,38.0
+3405,beta character ai nsfw bot,2023-07,29.0
+3406,free ai art,2022-07,14.0
+3407,free ai art,2022-08,20.75
+3408,free ai art,2022-09,29.0
+3409,free ai art,2022-10,35.6
+3410,free ai art,2022-11,39.75
+3411,free ai art,2022-12,76.5
+3412,free ai art,2023-01,69.6
+3413,free ai art,2023-02,65.0
+3414,free ai art,2023-03,68.0
+3415,free ai art,2023-04,92.4
+3416,free ai art,2023-05,93.0
+3417,free ai art,2023-06,92.0
+3418,free ai art,2023-07,87.67
+3419,logo generator,2022-07,49.0
+3420,logo generator,2022-08,52.25
+3421,logo generator,2022-09,53.5
+3422,logo generator,2022-10,49.0
+3423,logo generator,2022-11,51.0
+3424,logo generator,2022-12,52.0
+3425,logo generator,2023-01,69.0
+3426,logo generator,2023-02,73.25
+3427,logo generator,2023-03,78.25
+3428,logo generator,2023-04,91.8
+3429,logo generator,2023-05,91.25
+3430,logo generator,2023-06,90.5
+3431,logo generator,2023-07,82.33
+3432,logo generator ai,2022-07,5.0
+3433,logo generator ai,2022-08,7.5
+3434,logo generator ai,2022-09,7.75
+3435,logo generator ai,2022-10,8.2
+3436,logo generator ai,2022-11,10.0
+3437,logo generator ai,2022-12,19.0
+3438,logo generator ai,2023-01,35.2
+3439,logo generator ai,2023-02,47.0
+3440,logo generator ai,2023-03,58.0
+3441,logo generator ai,2023-04,77.2
+3442,logo generator ai,2023-05,86.25
+3443,logo generator ai,2023-06,93.5
+3444,logo generator ai,2023-07,84.33
+3445,chatgpt image generator,2022-07,0.0
+3446,chatgpt image generator,2022-08,6.5
+3447,chatgpt image generator,2022-09,5.5
+3448,chatgpt image generator,2022-10,2.4
+3449,chatgpt image generator,2022-11,2.75
+3450,chatgpt image generator,2022-12,34.25
+3451,chatgpt image generator,2023-01,33.6
+3452,chatgpt image generator,2023-02,46.25
+3453,chatgpt image generator,2023-03,65.0
+3454,chatgpt image generator,2023-04,91.2
+3455,chatgpt image generator,2023-05,79.25
+3456,chatgpt image generator,2023-06,84.25
+3457,chatgpt image generator,2023-07,62.67
+3458,dream ai,2022-07,18.0
+3459,dream ai,2022-08,36.0
+3460,dream ai,2022-09,77.5
+3461,dream ai,2022-10,53.0
+3462,dream ai,2022-11,37.25
+3463,dream ai,2022-12,59.5
+3464,dream ai,2023-01,47.6
+3465,dream ai,2023-02,58.75
+3466,dream ai,2023-03,56.75
+3467,dream ai,2023-04,65.2
+3468,dream ai,2023-05,60.75
+3469,dream ai,2023-06,56.75
+3470,dream ai,2023-07,49.0
+3471,character.ai alternative,2022-07,0.0
+3472,character.ai alternative,2022-08,3.5
+3473,character.ai alternative,2022-09,8.5
+3474,character.ai alternative,2022-10,7.4
+3475,character.ai alternative,2022-11,7.75
+3476,character.ai alternative,2022-12,5.0
+3477,character.ai alternative,2023-01,7.6
+3478,character.ai alternative,2023-02,3.5
+3479,character.ai alternative,2023-03,7.0
+3480,character.ai alternative,2023-04,44.2
+3481,character.ai alternative,2023-05,32.25
+3482,character.ai alternative,2023-06,32.0
+3483,character.ai alternative,2023-07,40.67
+3484,character.ai down,2022-07,15.0
+3485,character.ai down,2022-08,3.25
+3486,character.ai down,2022-09,8.5
+3487,character.ai down,2022-10,0.0
+3488,character.ai down,2022-11,7.5
+3489,character.ai down,2022-12,0.0
+3490,character.ai down,2023-01,3.2
+3491,character.ai down,2023-02,0.0
+3492,character.ai down,2023-03,6.0
+3493,character.ai down,2023-04,21.2
+3494,character.ai down,2023-05,29.5
+3495,character.ai down,2023-06,17.25
+3496,character.ai down,2023-07,49.33
+3497,is character.ai down,2022-07,0.0
+3498,is character.ai down,2022-08,0.0
+3499,is character.ai down,2022-09,4.5
+3500,is character.ai down,2022-10,0.0
+3501,is character.ai down,2022-11,8.0
+3502,is character.ai down,2022-12,7.5
+3503,is character.ai down,2023-01,7.6
+3504,is character.ai down,2023-02,5.25
+3505,is character.ai down,2023-03,9.25
+3506,is character.ai down,2023-04,10.4
+3507,is character.ai down,2023-05,25.0
+3508,is character.ai down,2023-06,24.5
+3509,is character.ai down,2023-07,32.33
+3510,ai generated images,2022-07,40.0
+3511,ai generated images,2022-08,44.0
+3512,ai generated images,2022-09,29.0
+3513,ai generated images,2022-10,28.6
+3514,ai generated images,2022-11,35.25
+3515,ai generated images,2022-12,54.75
+3516,ai generated images,2023-01,33.0
+3517,ai generated images,2023-02,34.5
+3518,ai generated images,2023-03,39.75
+3519,ai generated images,2023-04,45.0
+3520,ai generated images,2023-05,43.25
+3521,ai generated images,2023-06,35.25
+3522,ai generated images,2023-07,42.33
+3523,what is nsfw meaning,2022-07,68.0
+3524,what is nsfw meaning,2022-08,30.75
+3525,what is nsfw meaning,2022-09,27.75
+3526,what is nsfw meaning,2022-10,37.0
+3527,what is nsfw meaning,2022-11,17.0
+3528,what is nsfw meaning,2022-12,32.5
+3529,what is nsfw meaning,2023-01,20.2
+3530,what is nsfw meaning,2023-02,46.25
+3531,what is nsfw meaning,2023-03,34.0
+3532,what is nsfw meaning,2023-04,24.8
+3533,what is nsfw meaning,2023-05,15.5
+3534,what is nsfw meaning,2023-06,46.25
+3535,what is nsfw meaning,2023-07,7.67
+3536,nsfw pics meaning,2022-07,19.0
+3537,nsfw pics meaning,2022-08,48.0
+3538,nsfw pics meaning,2022-09,58.25
+3539,nsfw pics meaning,2022-10,12.6
+3540,nsfw pics meaning,2022-11,25.25
+3541,nsfw pics meaning,2022-12,48.0
+3542,nsfw pics meaning,2023-01,29.2
+3543,nsfw pics meaning,2023-02,15.0
+3544,nsfw pics meaning,2023-03,5.5
+3545,nsfw pics meaning,2023-04,24.6
+3546,nsfw pics meaning,2023-05,18.0
+3547,nsfw pics meaning,2023-06,30.0
+3548,nsfw pics meaning,2023-07,45.0
+3549,nsfw discord meaning,2022-07,52.0
+3550,nsfw discord meaning,2022-08,15.75
+3551,nsfw discord meaning,2022-09,22.25
+3552,nsfw discord meaning,2022-10,22.4
+3553,nsfw discord meaning,2022-11,50.25
+3554,nsfw discord meaning,2022-12,39.5
+3555,nsfw discord meaning,2023-01,4.8
+3556,nsfw discord meaning,2023-02,48.5
+3557,nsfw discord meaning,2023-03,17.25
+3558,nsfw discord meaning,2023-04,36.6
+3559,nsfw discord meaning,2023-05,26.25
+3560,nsfw discord meaning,2023-06,14.0
+3561,nsfw discord meaning,2023-07,53.33
+3562,sfw meaning,2022-07,52.0
+3563,sfw meaning,2022-08,58.75
+3564,sfw meaning,2022-09,64.75
+3565,sfw meaning,2022-10,63.4
+3566,sfw meaning,2022-11,72.0
+3567,sfw meaning,2022-12,66.75
+3568,sfw meaning,2023-01,58.6
+3569,sfw meaning,2023-02,69.75
+3570,sfw meaning,2023-03,55.0
+3571,sfw meaning,2023-04,50.6
+3572,sfw meaning,2023-05,69.75
+3573,sfw meaning,2023-06,69.0
+3574,sfw meaning,2023-07,67.33
+3575,nsfw meaning slang,2022-07,0.0
+3576,nsfw meaning slang,2022-08,25.75
+3577,nsfw meaning slang,2022-09,11.5
+3578,nsfw meaning slang,2022-10,12.8
+3579,nsfw meaning slang,2022-11,14.25
+3580,nsfw meaning slang,2022-12,17.0
+3581,nsfw meaning slang,2023-01,5.8
+3582,nsfw meaning slang,2023-02,19.0
+3583,nsfw meaning slang,2023-03,6.75
+3584,nsfw meaning slang,2023-04,0.0
+3585,nsfw meaning slang,2023-05,8.25
+3586,nsfw meaning slang,2023-06,31.0
+3587,nsfw meaning slang,2023-07,53.33
+3588,snoo,2022-07,65.0
+3589,snoo,2022-08,65.25
+3590,snoo,2022-09,58.75
+3591,snoo,2022-10,56.2
+3592,snoo,2022-11,74.5
+3593,snoo,2022-12,61.25
+3594,snoo,2023-01,70.2
+3595,snoo,2023-02,63.5
+3596,snoo,2023-03,65.75
+3597,snoo,2023-04,72.6
+3598,snoo,2023-05,63.75
+3599,snoo,2023-06,67.0
+3600,snoo,2023-07,68.67
+3601,learn what you are and be such poet,2022-07,0.0
+3602,learn what you are and be such poet,2022-08,7.0
+3603,learn what you are and be such poet,2022-09,0.0
+3604,learn what you are and be such poet,2022-10,0.0
+3605,learn what you are and be such poet,2022-11,0.0
+3606,learn what you are and be such poet,2022-12,0.0
+3607,learn what you are and be such poet,2023-01,5.8
+3608,learn what you are and be such poet,2023-02,0.0
+3609,learn what you are and be such poet,2023-03,38.0
+3610,learn what you are and be such poet,2023-04,12.6
+3611,learn what you are and be such poet,2023-05,14.0
+3612,learn what you are and be such poet,2023-06,0.0
+3613,learn what you are and be such poet,2023-07,3.67
+3614,iroquois confederacy founder,2022-07,0.0
+3615,iroquois confederacy founder,2022-08,0.0
+3616,iroquois confederacy founder,2022-09,3.25
+3617,iroquois confederacy founder,2022-10,0.0
+3618,iroquois confederacy founder,2022-11,3.25
+3619,iroquois confederacy founder,2022-12,0.0
+3620,iroquois confederacy founder,2023-01,5.2
+3621,iroquois confederacy founder,2023-02,2.25
+3622,iroquois confederacy founder,2023-03,33.75
+3623,iroquois confederacy founder,2023-04,2.8
+3624,iroquois confederacy founder,2023-05,3.25
+3625,iroquois confederacy founder,2023-06,9.0
+3626,iroquois confederacy founder,2023-07,0.0
+3627,study of riddles,2022-07,0.0
+3628,study of riddles,2022-08,0.0
+3629,study of riddles,2022-09,0.0
+3630,study of riddles,2022-10,2.0
+3631,study of riddles,2022-11,0.0
+3632,study of riddles,2022-12,1.5
+3633,study of riddles,2023-01,1.8
+3634,study of riddles,2023-02,0.0
+3635,study of riddles,2023-03,1.75
+3636,study of riddles,2023-04,2.2
+3637,study of riddles,2023-05,0.0
+3638,study of riddles,2023-06,25.0
+3639,study of riddles,2023-07,15.33
+3640,mage ai,2022-07,7.0
+3641,mage ai,2022-08,4.0
+3642,mage ai,2022-09,9.0
+3643,mage ai,2022-10,11.6
+3644,mage ai,2022-11,14.75
+3645,mage ai,2022-12,33.75
+3646,mage ai,2023-01,34.8
+3647,mage ai,2023-02,39.75
+3648,mage ai,2023-03,64.75
+3649,mage ai,2023-04,45.0
+3650,mage ai,2023-05,35.0
+3651,mage ai,2023-06,30.25
+3652,mage ai,2023-07,23.33
+3653,ai generator free,2022-07,8.0
+3654,ai generator free,2022-08,11.5
+3655,ai generator free,2022-09,12.75
+3656,ai generator free,2022-10,16.8
+3657,ai generator free,2022-11,20.75
+3658,ai generator free,2022-12,40.5
+3659,ai generator free,2023-01,37.4
+3660,ai generator free,2023-02,40.75
+3661,ai generator free,2023-03,48.25
+3662,ai generator free,2023-04,66.8
+3663,ai generator free,2023-05,74.75
+3664,ai generator free,2023-06,75.0
+3665,ai generator free,2023-07,86.0
+3666,text generator,2022-07,68.0
+3667,text generator,2022-08,76.5
+3668,text generator,2022-09,83.75
+3669,text generator,2022-10,83.6
+3670,text generator,2022-11,79.75
+3671,text generator,2022-12,85.25
+3672,text generator,2023-01,88.4
+3673,text generator,2023-02,97.25
+3674,text generator,2023-03,95.5
+3675,text generator,2023-04,96.8
+3676,text generator,2023-05,89.5
+3677,text generator,2023-06,84.0
+3678,text generator,2023-07,80.0
+3679,free ai headshot generator,2022-07,0.0
+3680,free ai headshot generator,2022-08,0.0
+3681,free ai headshot generator,2022-09,1.25
+3682,free ai headshot generator,2022-10,1.0
+3683,free ai headshot generator,2022-11,1.25
+3684,free ai headshot generator,2022-12,1.25
+3685,free ai headshot generator,2023-01,0.6
+3686,free ai headshot generator,2023-02,0.0
+3687,free ai headshot generator,2023-03,21.75
+3688,free ai headshot generator,2023-04,14.0
+3689,free ai headshot generator,2023-05,15.5
+3690,free ai headshot generator,2023-06,16.5
+3691,free ai headshot generator,2023-07,43.33
+3692,remini baby ai generator,2022-07,0.0
+3693,remini baby ai generator,2022-08,1.0
+3694,remini baby ai generator,2022-09,0.25
+3695,remini baby ai generator,2022-10,0.6
+3696,remini baby ai generator,2022-11,0.0
+3697,remini baby ai generator,2022-12,0.0
+3698,remini baby ai generator,2023-01,0.0
+3699,remini baby ai generator,2023-02,0.5
+3700,remini baby ai generator,2023-03,0.5
+3701,remini baby ai generator,2023-04,0.4
+3702,remini baby ai generator,2023-05,0.5
+3703,remini baby ai generator,2023-06,0.25
+3704,remini baby ai generator,2023-07,50.67
+3705,ai professional headshot generator,2022-07,0.0
+3706,ai professional headshot generator,2022-08,0.0
+3707,ai professional headshot generator,2022-09,2.0
+3708,ai professional headshot generator,2022-10,0.0
+3709,ai professional headshot generator,2022-11,0.0
+3710,ai professional headshot generator,2022-12,1.25
+3711,ai professional headshot generator,2023-01,0.6
+3712,ai professional headshot generator,2023-02,0.0
+3713,ai professional headshot generator,2023-03,50.25
+3714,ai professional headshot generator,2023-04,13.2
+3715,ai professional headshot generator,2023-05,12.0
+3716,ai professional headshot generator,2023-06,8.0
+3717,ai professional headshot generator,2023-07,20.33
+3718,free ai selfie generator,2022-07,0.0
+3719,free ai selfie generator,2022-08,0.0
+3720,free ai selfie generator,2022-09,0.75
+3721,free ai selfie generator,2022-10,0.0
+3722,free ai selfie generator,2022-11,2.0
+3723,free ai selfie generator,2022-12,36.0
+3724,free ai selfie generator,2023-01,2.0
+3725,free ai selfie generator,2023-02,2.75
+3726,free ai selfie generator,2023-03,5.5
+3727,free ai selfie generator,2023-04,3.0
+3728,free ai selfie generator,2023-05,2.0
+3729,free ai selfie generator,2023-06,0.75
+3730,free ai selfie generator,2023-07,3.0
+3731,gpt ai chat,2022-07,0.0
+3732,gpt ai chat,2022-08,0.0
+3733,gpt ai chat,2022-09,0.0
+3734,gpt ai chat,2022-10,0.0
+3735,gpt ai chat,2022-11,0.75
+3736,gpt ai chat,2022-12,41.25
+3737,gpt ai chat,2023-01,58.4
+3738,gpt ai chat,2023-02,62.25
+3739,gpt ai chat,2023-03,77.25
+3740,gpt ai chat,2023-04,90.4
+3741,gpt ai chat,2023-05,75.25
+3742,gpt ai chat,2023-06,51.75
+3743,gpt ai chat,2023-07,46.33
+3744,open chat ai,2022-07,0.0
+3745,open chat ai,2022-08,0.0
+3746,open chat ai,2022-09,0.25
+3747,open chat ai,2022-10,0.2
+3748,open chat ai,2022-11,3.5
+3749,open chat ai,2022-12,77.5
+3750,open chat ai,2023-01,70.6
+3751,open chat ai,2023-02,51.0
+3752,open chat ai,2023-03,56.75
+3753,open chat ai,2023-04,55.0
+3754,open chat ai,2023-05,44.5
+3755,open chat ai,2023-06,31.0
+3756,open chat ai,2023-07,28.67
+3757,ai chatgpt,2022-07,0.0
+3758,ai chatgpt,2022-08,0.0
+3759,ai chatgpt,2022-09,0.0
+3760,ai chatgpt,2022-10,0.0
+3761,ai chatgpt,2022-11,0.75
+3762,ai chatgpt,2022-12,35.75
+3763,ai chatgpt,2023-01,51.4
+3764,ai chatgpt,2023-02,69.25
+3765,ai chatgpt,2023-03,74.0
+3766,ai chatgpt,2023-04,90.2
+3767,ai chatgpt,2023-05,77.75
+3768,ai chatgpt,2023-06,58.0
+3769,ai chatgpt,2023-07,53.33
+3770,free chat ai,2022-07,3.0
+3771,free chat ai,2022-08,0.0
+3772,free chat ai,2022-09,1.5
+3773,free chat ai,2022-10,0.0
+3774,free chat ai,2022-11,1.25
+3775,free chat ai,2022-12,19.25
+3776,free chat ai,2023-01,39.0
+3777,free chat ai,2023-02,44.5
+3778,free chat ai,2023-03,58.0
+3779,free chat ai,2023-04,90.0
+3780,free chat ai,2023-05,84.25
+3781,free chat ai,2023-06,72.25
+3782,free chat ai,2023-07,74.0
+3783,google chat,2022-07,56.0
+3784,google chat,2022-08,57.75
+3785,google chat,2022-09,58.75
+3786,google chat,2022-10,59.2
+3787,google chat,2022-11,58.75
+3788,google chat,2022-12,63.0
+3789,google chat,2023-01,73.2
+3790,google chat,2023-02,84.5
+3791,google chat,2023-03,84.25
+3792,google chat,2023-04,93.0
+3793,google chat,2023-05,90.25
+3794,google chat,2023-06,79.5
+3795,google chat,2023-07,76.33
+3796,google chat ai,2022-07,2.0
+3797,google chat ai,2022-08,1.25
+3798,google chat ai,2022-09,1.5
+3799,google chat ai,2022-10,2.2
+3800,google chat ai,2022-11,3.25
+3801,google chat ai,2022-12,22.75
+3802,google chat ai,2023-01,35.6
+3803,google chat ai,2023-02,69.25
+3804,google chat ai,2023-03,69.5
+3805,google chat ai,2023-04,81.2
+3806,google chat ai,2023-05,81.5
+3807,google chat ai,2023-06,57.5
+3808,google chat ai,2023-07,52.0
+3809,what is ai,2022-07,9.0
+3810,what is ai,2022-08,11.0
+3811,what is ai,2022-09,12.75
+3812,what is ai,2022-10,13.0
+3813,what is ai,2022-11,14.75
+3814,what is ai,2022-12,25.5
+3815,what is ai,2023-01,27.8
+3816,what is ai,2023-02,37.5
+3817,what is ai,2023-03,42.0
+3818,what is ai,2023-04,67.8
+3819,what is ai,2023-05,59.0
+3820,what is ai,2023-06,49.5
+3821,what is ai,2023-07,49.33
+3822,chat gpt ai login,2022-07,0.0
+3823,chat gpt ai login,2022-08,0.75
+3824,chat gpt ai login,2022-09,1.0
+3825,chat gpt ai login,2022-10,0.4
+3826,chat gpt ai login,2022-11,0.5
+3827,chat gpt ai login,2022-12,12.0
+3828,chat gpt ai login,2023-01,63.0
+3829,chat gpt ai login,2023-02,64.0
+3830,chat gpt ai login,2023-03,76.0
+3831,chat gpt ai login,2023-04,82.2
+3832,chat gpt ai login,2023-05,69.25
+3833,chat gpt ai login,2023-06,40.25
+3834,chat gpt ai login,2023-07,43.0
+3835,chat gpt login,2022-07,0.0
+3836,chat gpt login,2022-08,0.0
+3837,chat gpt login,2022-09,0.0
+3838,chat gpt login,2022-10,0.0
+3839,chat gpt login,2022-11,0.0
+3840,chat gpt login,2022-12,6.75
+3841,chat gpt login,2023-01,50.2
+3842,chat gpt login,2023-02,74.0
+3843,chat gpt login,2023-03,80.25
+3844,chat gpt login,2023-04,87.2
+3845,chat gpt login,2023-05,70.75
+3846,chat gpt login,2023-06,44.25
+3847,chat gpt login,2023-07,38.0
+3848,chat gpt detector,2022-07,0.0
+3849,chat gpt detector,2022-08,1.25
+3850,chat gpt detector,2022-09,0.25
+3851,chat gpt detector,2022-10,0.0
+3852,chat gpt detector,2022-11,0.0
+3853,chat gpt detector,2022-12,7.25
+3854,chat gpt detector,2023-01,33.4
+3855,chat gpt detector,2023-02,64.5
+3856,chat gpt detector,2023-03,75.25
+3857,chat gpt detector,2023-04,89.0
+3858,chat gpt detector,2023-05,69.25
+3859,chat gpt detector,2023-06,35.75
+3860,chat gpt detector,2023-07,25.33
+3861,chat gpt 4,2022-07,0.0
+3862,chat gpt 4,2022-08,0.0
+3863,chat gpt 4,2022-09,0.0
+3864,chat gpt 4,2022-10,0.0
+3865,chat gpt 4,2022-11,0.0
+3866,chat gpt 4,2022-12,0.0
+3867,chat gpt 4,2023-01,0.0
+3868,chat gpt 4,2023-02,0.0
+3869,chat gpt 4,2023-03,0.0
+3870,chat gpt 4,2023-04,0.0
+3871,chat gpt 4,2023-05,0.0
+3872,chat gpt 4,2023-06,0.0
+3873,chat gpt 4,2023-07,33.33
+3874,chat gpt app,2022-07,0.0
+3875,chat gpt app,2022-08,0.0
+3876,chat gpt app,2022-09,0.0
+3877,chat gpt app,2022-10,0.0
+3878,chat gpt app,2022-11,0.25
+3879,chat gpt app,2022-12,76.5
+3880,chat gpt app,2023-01,70.4
+3881,chat gpt app,2023-02,63.5
+3882,chat gpt app,2023-03,75.25
+3883,chat gpt app,2023-04,79.4
+3884,chat gpt app,2023-05,61.75
+3885,chat gpt app,2023-06,43.0
+3886,chat gpt app,2023-07,41.0
+3887,chat gpt checker,2022-07,0.0
+3888,chat gpt checker,2022-08,0.25
+3889,chat gpt checker,2022-09,1.75
+3890,chat gpt checker,2022-10,1.6
+3891,chat gpt checker,2022-11,0.5
+3892,chat gpt checker,2022-12,25.75
+3893,chat gpt checker,2023-01,28.0
+3894,chat gpt checker,2023-02,54.5
+3895,chat gpt checker,2023-03,66.25
+3896,chat gpt checker,2023-04,81.4
+3897,chat gpt checker,2023-05,58.75
+3898,chat gpt checker,2023-06,31.0
+3899,chat gpt checker,2023-07,19.33
+3900,ai like chat gpt,2022-07,0.0
+3901,ai like chat gpt,2022-08,0.0
+3902,ai like chat gpt,2022-09,1.5
+3903,ai like chat gpt,2022-10,2.4
+3904,ai like chat gpt,2022-11,0.0
+3905,ai like chat gpt,2022-12,12.5
+3906,ai like chat gpt,2023-01,61.4
+3907,ai like chat gpt,2023-02,76.0
+3908,ai like chat gpt,2023-03,71.25
+3909,ai like chat gpt,2023-04,81.8
+3910,ai like chat gpt,2023-05,65.75
+3911,ai like chat gpt,2023-06,40.0
+3912,ai like chat gpt,2023-07,44.33
