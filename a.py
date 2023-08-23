@@ -7,6 +7,7 @@ import pandas as pd
 import time
 import glob
 
+#Just some tests
 
 from selenium import webdriver
 website = 'https://trends.google.com/trends/?geo=US'
