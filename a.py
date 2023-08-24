@@ -10,10 +10,10 @@ import glob
 #Just some tests
 
 from selenium import webdriver
-website = 'https://trends.google.com/trends/?geo=US'
+website = 'https://trends.google.com/trends/?geo=IN'
 options = Options()
 options.add_experimental_option("prefs", {
- "download.default_directory": r"C:\Users\trends\Desktop\Trends\output_files_mobile_games"
+ "download.default_directory": r"C:\Users\trends\Desktop\Trends\output_files_under_500"
   })
 driver = webdriver.Chrome(options=options)
 driver.get(website)
@@ -41,7 +41,7 @@ element.send_keys(Keys.CONTROL + "A")
 element.send_keys(Keys.BACKSPACE)
 # element.send_keys(30*Keys.BACKSPACE)
 # time.sleep(5)
-element.send_keys("mobile game")
+element.send_keys("under 500")
 # element.clear()
 element.send_keys(Keys.ENTER)
 time.sleep(5)
@@ -70,7 +70,7 @@ print("seed timeline and queries downloaded")
 # Logic for Getting Rising and Top Queries as array
 time.sleep(1)
 import numpy as np
-df = pd.read_csv('output_files_mobile_games/relatedQueries.csv',names=['Query', 'Value'])
+df = pd.read_csv('output_files_under_500/relatedQueries.csv',names=['Query', 'Value'])
 found = df[(df.Query == "TOP")].index.values[0]
 found2 = df[(df.Query == "RISING")].index.values[0]
 
@@ -152,7 +152,7 @@ print("completed: all seed children timeline and queries download")
 
 #allrealtedqueries in one big csv
 
-csv_files = glob.glob('output_files_mobile_games/relatedQueries *.{}'.format('csv'))
+csv_files = glob.glob('output_files_under_500/relatedQueries *.{}'.format('csv'))
 df_csv_append = pd.DataFrame()
 # append the CSV files
 l = []

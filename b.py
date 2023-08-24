@@ -1,12 +1,12 @@
 import pandas as pd
 import glob
 
-csv1 = glob.glob('output_files_mobile_games\multiTimeline *.{}'.format('csv'))
+csv1 = glob.glob('output_files_under_500\multiTimeline *.{}'.format('csv'))
 print(csv1)
 
 df2 = pd.DataFrame(
     columns=['Month', '2022-08', '2022-09', '2022-10', '2022-11', '2022-12', '2023-01', '2023-02', '2023-03',
-             '2023-04', '2023-05', '2023-06', '2023-07'])
+             '2023-04', '2023-05', '2023-06', '2023-07','2023-08'])
 count = 0
 # print(csv1)
 
@@ -53,8 +53,6 @@ df2 = df2.reset_index()
 df2.pop('index')
 
 print(df2)
-df2.to_csv('mobile_games.csv')
+df2.to_csv('under_500.csv')
 
 # Read the data into a DataFrame
-df = pd.read_csv(f'mobile_games.csv')
-print(df)
