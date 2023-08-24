@@ -15,7 +15,12 @@ for i in csv1:
     csv_data = pd.read_csv(i, names=['Week', 'Value'])
 
     Keyword = csv_data.Value[1]
-    Keyword = Keyword[:len(Keyword)-17]
+
+    #For India
+    Keyword = Keyword[:len(Keyword)-9]
+
+    #For (United States)
+    # Keyword = Keyword[:len(Keyword)-17]
     # print(Keyword)
 
     csv_data = pd.read_csv(i, names=['Week', Keyword])
